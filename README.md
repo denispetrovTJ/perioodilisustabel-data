@@ -6,5 +6,5 @@ json failide nimekiri ja lühike selgitus:
 * **seriesnames** elementide gruppide nimetused eri keeltes. Peavad vastama **elements-data** series-väljal esinevatele väärtustele.
 * **dictionary** sõnastik
 * **quiz** testi end viktoriin
-* 
+ 
 jsonite mugavaks muutmiseks brauseris: https://jsoneditoronline.org
