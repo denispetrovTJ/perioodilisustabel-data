@@ -4,5 +4,6 @@ json failide nimekiri ja lühike selgitus:
 * **fieldnames**: infoväljade nimetused eri keeltes - peavad vastama **elements-data** väljanimedele. Siin failis peaks olema need väljad, mis infokastis üksiku elemendi peale klikates nähtavale tulevad. Mõni **elements-data** väli võib siit ka puudu olla - siis seda infovälja ei näidata.
 * **names**: elementide nimed eri keeltes.
 * **seriesnames** elementide gruppide nimetused eri keeltes. Peavad vastama **elements-data** series-väljal esinevatele väärtustele.
-
+* **dictionary** sõnastik
+* **quiz** testi end viktoriin
 jsonite mugavaks muutmiseks brauseris: https://jsoneditoronline.org
