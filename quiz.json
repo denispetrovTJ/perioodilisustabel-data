@@ -1,0 +1,38 @@
+[
+  {
+    "question": {
+      "et": "Mis on keemia?",
+      "en": "Whatever?",
+      "lv": "Whatever, but in Latvian?"
+    },
+    "answers": {
+      "et": {
+        "correct": [
+          "Keemia on...."
+        ],
+        "false": [
+          "Keemia ei ole 1",
+          "Keemia ei ole 2"
+        ]
+      },
+      "en": {
+        "correct": [
+          "Keemia on...."
+        ],
+        "false": [
+          "Keemia ei ole 1",
+          "Keemia ei ole 2"
+        ]
+      },
+      "lv": {
+        "correct": [
+          "Keemia on...."
+        ],
+        "false": [
+          "Keemia ei ole 1",
+          "Keemia ei ole 2"
+        ]
+      }
+    }
+  }
+]
