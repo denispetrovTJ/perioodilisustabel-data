@@ -1,38 +1,2304 @@
 [
   {
+    "element": "H",
     "question": {
-      "et": "Mis on keemia?",
-      "en": "Whatever?",
-      "lv": "Whatever, but in Latvian?"
+      "et": "See on Universumi kõige levinum keemiline element, umbes 92% kõigist olemasolevatest aatomitest, mis moodustavad umbes 75% kogu Universumis leiduva aine massist.",
+      "en": "This is the most common chemical element found in the Universe, around 92% of all atoms in existence, which make up around 75% of the total mass of all matter in the Universe.",
+      "lv": "Šis ir visizplatītākais ķīmiskais elements Visumā, aptuveni 92% no visiem esošajiem atomiem, kas veido aptuveni 75% no visas matērijas kopējās masas Visumā."
     },
-    "answers": {
-      "et": {
-        "correct": [
-          "Keemia on...."
-        ],
-        "false": [
-          "Keemia ei ole 1",
-          "Keemia ei ole 2"
-        ]
-      },
-      "en": {
-        "correct": [
-          "Keemia on...."
-        ],
-        "false": [
-          "Keemia ei ole 1",
-          "Keemia ei ole 2"
-        ]
-      },
-      "lv": {
-        "correct": [
-          "Keemia on...."
-        ],
-        "false": [
-          "Keemia ei ole 1",
-          "Keemia ei ole 2"
-        ]
-      }
-    }
+    "answergroups": [
+      "Nonmetal",
+      "Noble"
+    ]
+  },
+  {
+    "element": "H",
+    "question": {
+      "et": "Seda elementi kasutavad kütusena Päike ning valdav enamus kõigist taevas paistvatest tähtedest.",
+      "en": "The Sun and most stars visible in the sky use this element as their primary fuel.",
+      "lv": "Saule un lielais vairums debesīs redzamo zvaigžņu izmanto šo elementu kā degvielu."
+    },
+    "answergroups": [
+      "Nonmetal",
+      "Noble"
+    ]
+  },
+  {
+    "element": "H",
+    "question": {
+      "et": "Tavatingimustes esineb see element kerge kaheaatomilise gaasina, mis on tõhusaim tõstegaas õhupallide ja õhulaevade valmistamisel. Paraku kaasneb selle kasutamisega suur tuleoht.",
+      "en": "Under ordinary conditions, this element exists as a light diatomic gas. It is the most effective lifting gas for balloons and airships, although using it comes with a serious fire risk.",
+      "lv": "Parastos apstākļos šis elements ir viegla divatomu gāze. Tā ir visefektīvākā cēlējspēka gāze baloniem un dirižabļiem, taču tās izmantošana ir saistīta ar lielu ugunsbīstamību."
+    },
+    "answergroups": [
+      "Nonmetal",
+      "Noble"
+    ]
+  },
+  {
+    "element": "He",
+    "question": {
+      "et": "See element on nime saanud Vana-Kreeka päikesejumala järgi, sest selle olemasolu avastati esmakordselt Päikese krooni spektroskoopiliste uuringute käigus 1868. aasta täieliku päikesevarjutuse ajal.",
+      "en": "This element was named after the ancient Greek sun god, as it was first discovered during spectroscopic observations of the solar corona during a total eclipse of the Sun in 1868.",
+      "lv": "Šis elements tika nosaukts seno grieķu saules dieva vārdā, jo tas pirmo reizi tika atklāts Saules koronas spektroskopisko novērojumu laikā pilnīga Saules aptumsuma laikā 1868. gadā."
+    },
+    "answergroups": [
+      "Nonmetal",
+      "Halogen",
+      "Alkali",
+      "Alkaline",
+      "Noble"
+    ]
+  },
+  {
+    "element": "He",
+    "question": {
+      "et": "Sel elemendil puudub tavalise atmosfäärirõhu juures tahke faas – see jääb vedelaks ka absoluutse nulltemperatuuri juures, moodustades ülivoolava vedeliku, millel puudub viskoossus.",
+      "en": "At normal atmospheric pressure this element has no solid phase: even at absolute zero temperature it remains liquid and forms a superfluid with no viscosity.",
+      "lv": "Normālā atmosfēras spiedienā šim elementam nav cietās fāzes: pat temperatūrās tuvu absolūtajai nullei tas paliek šķidrs un var kļūt par superšķidrumu bez viskozitātes."
+    },
+    "answergroups": [
+      "Noble",
+      "Nonmetal"
+    ]
+  },
+  {
+    "element": "He",
+    "question": {
+      "et": "See element on levikult Universumis teisel kohal, kuid Maal leidub seda väga vähe ning peale olemasolevate varude kaevandamise puudub meil võimalus seda ühegi praktilise protsessiga ise juurde toota.",
+      "en": "This is the second most abundant element in the Universe, but it is very rare on Earth. Apart from extracting existing reserves, we have no practical ways to produce more of it.",
+      "lv": "Šis ir otrais izplatītākais elements Visumā, taču uz Zemes tas sastopams ļoti maz. Bez esošo krājumu ieguves mums nav praktiska veida, kā to saražot vairāk."
+    },
+    "answergroups": [
+      "Noble",
+      "Nonmetal"
+    ]
+  },
+  {
+    "element": "Li",
+    "question": {
+      "et": "Seda kerget metalli kasutatakse karbonaadi kujul meeleoluhäirete ravimina.",
+      "en": "This light metal is used, in the form of its carbonate, as a medicine for mood disorders.",
+      "lv": "Šo vieglo metālu karbonāta veidā izmanto kā zāles garastāvokļa traucējumu ārstēšanai."
+    },
+    "answergroups": [
+      "Alkali",
+      "Alkaline"
+    ]
+  },
+  {
+    "element": "Li",
+    "question": {
+      "et": "Umbes 70–90% selle metalli aastasest toodangust kasutatakse akude valmistamiseks.",
+      "en": "About 70–90% of this metal's annual production is used to make batteries.",
+      "lv": "Aptuveni 70–90% šā metāla ikgadējās produkcijas izmanto bateriju un akumulatoru ražošanai."
+    },
+    "answergroups": [
+      "Alkali",
+      "Alkaline",
+      "Transition",
+      "Poor"
+    ]
+  },
+  {
+    "element": "Be",
+    "question": {
+      "et": "See kerge metalliline element näeb nähtavas valguses üsna tavaline välja, kuid röntgenkiirtele, gammakiirgusele ja kõrge energiaga osakestele on see peaaegu täielikult läbipaistev. Seetõttu kasutatakse seda kiirgust läbilaskvate seintega vaakumkambrite ehitamisel näiteks röntgentorudes ning CERNi Suure Hadronite Põrguti instrumentides.",
+      "en": "In visible light this light metallic element looks fairly ordinary, but it is almost completely transparent to X-rays, gamma rays and high-energy particles. For that reason it is used to make radiation-transparent walls for vacuum chambers, for example in X-ray tubes and instruments at CERN's Large Hadron Collider.",
+      "lv": "Redzamajā gaismā šis vieglais metāliskais elements izskatās pavisam parasts, taču rentgenstariem, gamma starojumam un augstas enerģijas daļiņām tas ir gandrīz pilnībā caurspīdīgs. Tāpēc to izmanto vakuuma kameru starojumu caurlaidīgu sienu izgatavošanai, piemēram, rentgenlampās un CERN Lielā hadronu paātrinātāja instrumentos."
+    },
+    "answergroups": [
+      "Alkaline",
+      "Alkali",
+      "Poor",
+      "Transition"
+    ]
+  },
+  {
+    "element": "B",
+    "question": {
+      "et": "Sellest elemendist saab koos süsiniku või lämmastikuga valmistada väga tugevaid ja kuumuskindlaid keraamilisi materjale, mis on kasutusel kuuli- ja killuvestides või sulatusnõude valmistamisel.",
+      "en": "Together with carbon or nitrogen, this element can be used to make very strong, heat-resistant ceramic materials used in ballistic armor or in crucibles.",
+      "lv": "Kopā ar oglekli vai slāpekli no šā elementa var izgatavot ļoti izturīgus un karstumizturīgus keramikas materiālus, ko izmanto ložu un šķembu aizsargvestēs vai tīģeļu izgatavošanai."
+    },
+    "answergroups": [
+      "Metalloid",
+      "Nonmetal",
+      "Transition"
+    ]
+  },
+  {
+    "element": "C",
+    "question": {
+      "et": "Kogu orgaaniline keemia ning seega kogu elu Maal põhineb just selle elemendi võimel iseenda ja paljude teiste elementidega stabiilseid keemilisi sidemeid luua.",
+      "en": "All of organic chemistry, and therefore all life on Earth, rests on this element's ability to form stable chemical bonds with itself and with many other elements.",
+      "lv": "Visa organiskā ķīmija un līdz ar to visa dzīvība uz Zemes balstās uz šā elementa spēju veidot stabilas ķīmiskās saites gan pašam ar sevi, gan ar daudziem citiem elementiem."
+    },
+    "answergroups": [
+      "Nonmetal",
+      "Metalloid"
+    ]
+  },
+  {
+    "element": "C",
+    "question": {
+      "et": "See väga mitmekülgne element võib puhtal kujul esineda väga erineval moel ja mitmesuguste nimede all – grafiit, grafeen, teemant, tahm…",
+      "en": "In pure form, this remarkably versatile element can appear in many different forms and under many names: graphite, graphene, diamond, soot...",
+      "lv": "Tīrā veidā šis ļoti daudzpusīgais elements var būt sastopams daudzās atšķirīgās formās un ar dažādiem nosaukumiem: grafīts, grafēns, dimants, kvēpi..."
+    },
+    "answergroups": [
+      "Nonmetal",
+      "Metalloid"
+    ]
+  },
+  {
+    "element": "C",
+    "question": {
+      "et": "Selle elemendi radioaktiivne isotoop massiarvuga 14 on äärmiselt kasulik kuni paarikümne tuhande aasta vanuste esemete vanuse määramisel.",
+      "en": "The radioactive isotope of this element with mass number 14 is extremely useful for dating objects up to several tens of thousands of years old.",
+      "lv": "Šā elementa radioaktīvais izotops ar masas skaitli 14 ir ļoti noderīgs, lai noteiktu līdz vairākiem desmitiem tūkstošu gadu vecu priekšmetu vecumu."
+    },
+    "answergroups": [
+      "Nonmetal",
+      "Metalloid"
+    ]
+  },
+  {
+    "element": "C",
+    "question": {
+      "et": "Tavalisel atmosfäärirõhul püsib see kõigist elementidest kõige kõrgema temperatuurini – 3640°C – tahkena, kuid selle temperatuuri ületamisel aine mitte ei sula, vaid sublimeerib otse tahkest olekust gaasiks.",
+      "en": "At normal atmospheric pressure, this element remains solid to a higher temperature than any other element — 3640°C. Above that temperature it does not melt, but sublimates directly from solid to gas.",
+      "lv": "Normālā atmosfēras spiedienā šis elements paliek ciets līdz augstākai temperatūrai nekā jebkurš cits elements — 3640°C. Pārsniedzot šo temperatūru, tas nekūst, bet sublimē tieši no cietas vielas gāzē."
+    },
+    "answergroups": [
+      "Nonmetal",
+      "Metalloid",
+      "Transition"
+    ]
+  },
+  {
+    "element": "N",
+    "question": {
+      "et": "See tavaolekus gaasiline element moodustab kaheaatomilise molekuli kujul umbes 78% Maa atmosfäärist.",
+      "en": "Under ordinary conditions this gaseous element forms diatomic molecules and makes up about 78% of Earth's atmosphere.",
+      "lv": "Parastos apstākļos šis gāzveida elements veido divatomu molekulas un sastāda aptuveni 78% Zemes atmosfēras."
+    },
+    "answergroups": [
+      "Nonmetal",
+      "Noble",
+      "Halogen"
+    ]
+  },
+  {
+    "element": "N",
+    "question": {
+      "et": "Selle elemendi tööstuses kõige levinum vorm on ammoniaak, mis koosneb ühest selle elemendi aatomist koos kolme vesinikuaatomiga. Ammoniaak on lähteaine väga paljude keerulisemate ainete tootmisel alustades väetistest ning lõpetades lõhkeainetega.",
+      "en": "The most common industrial form of this element is ammonia, a compound of one atom of this element and three hydrogen atoms. Ammonia is a starting material for making many more complex substances, from fertilizers to explosives.",
+      "lv": "Visizplatītākā šā elementa rūpnieciskā forma ir amonjaks, kurā viens šā elementa atoms ir savienots ar trim ūdeņraža atomiem. Amonjaks ir izejviela daudzu sarežģītāku vielu ražošanai — no mēslošanas līdzekļiem līdz sprāgstvielām."
+    },
+    "answergroups": [
+      "Nonmetal",
+      "Metalloid"
+    ]
+  },
+  {
+    "element": "N",
+    "question": {
+      "et": "Tänu oma laialdasele levikule ja heale kättesaadavusele ning madalale sulamis- ja aurustumistemperatuurile (vastavalt –210°C ja –196°C), on see element väga levinud jahutusvedelik.",
+      "en": "Because it is abundant, easy to obtain, and has low melting and boiling points (–210°C and –196°C), this element is widely used as a coolant.",
+      "lv": "Tā kā šis elements ir plaši izplatīts, viegli iegūstams un tam ir zemas kušanas un viršanas temperatūras (attiecīgi –210°C un –196°C), to ļoti bieži izmanto kā dzesēšanas šķidrumu."
+    },
+    "answergroups": [
+      "Nonmetal",
+      "Noble"
+    ]
+  },
+  {
+    "element": "O",
+    "question": {
+      "et": "See on maakoores kõige levinum element, moodustades veidi alla poole maakoore massist ning ühtlasi kogu Universumis levikult kolmas element.",
+      "en": "This is the most common element found in Earth's crust, making up just under half of its mass, and it is also the third most abundant element in the Universe.",
+      "lv": "Šis ir visizplatītākais elements Zemes garozā, veidojot nedaudz mazāk nekā pusi no tās masas, un vienlaikus tas ir trešais izplatītākais elements Visumā."
+    },
+    "answergroups": [
+      "Nonmetal",
+      "Metalloid",
+      "Poor",
+      "Alkaline",
+      "Alkali"
+    ]
+  },
+  {
+    "element": "O",
+    "question": {
+      "et": "Seda, meile äärmiselt vajalikku kaheaatomilise gaasi kujul esinevat elementi, vajame hingamiseks ning looduses toodavad seda pidevalt juurde kõik fotosünteesivad taimed, vetikad ja osad bakterid.",
+      "en": "We need this extremely important diatomic gas for breathing, and in nature it is continuously replenished by photosynthesizing plants, algae and some bacteria.",
+      "lv": "Šī mums ārkārtīgi svarīgā divatomu gāze ir nepieciešama elpošanai, un dabā to nepārtraukti papildina fotosintezējošie augi, aļģes un dažas baktērijas."
+    },
+    "answergroups": [
+      "Nonmetal",
+      "Noble",
+      "Halogen"
+    ]
+  },
+  {
+    "element": "O",
+    "question": {
+      "et": "See väga levinud tavatingimustel gaasiline aine muutub alla –183°C jahutades kahvatusiniseks vedelikuks, mida kasutatakse sageli ühe komponendina raketikütustes.",
+      "en": "This very common gas turns into a pale blue liquid when cooled below –183°C, and it is often used as one component of rocket propellants.",
+      "lv": "Šī ļoti izplatītā gāze, atdzesēta zem –183°C, kļūst par gaiši zilu šķidrumu, ko bieži izmanto kā vienu no raķešu degvielas komponentēm."
+    },
+    "answergroups": [
+      "Nonmetal",
+      "Noble",
+      "Halogen"
+    ]
+  },
+  {
+    "element": "F",
+    "question": {
+      "et": "Sel elemendil on vaid üks looduslikult esinev isotoop massiarvuga 19 ning see reageerib hästi uraaniga. Seetõttu kasutatakse just selle elemendi uraaniühendit tsentrifuugides uraani rikastamiseks, ehk uraani eri massiarvudega isotoopide eraldamiseks nii tuumareaktorite kütuse kui ka tuumarelvade valmistamiseks.",
+      "en": "This element has only one naturally occurring isotope, with mass number 19, and it reacts readily with uranium. For that reason a uranium compound of this element is used in centrifuges for uranium enrichment: separating uranium isotopes with different mass numbers for nuclear reactor fuel and nuclear weapons.",
+      "lv": "Šim elementam ir tikai viens dabā sastopams izotops ar masas skaitli 19, un tas viegli reaģē ar urānu. Tāpēc šā elementa urāna savienojumu izmanto centrifūgās urāna bagātināšanai — urāna izotopu ar atšķirīgiem masas skaitļiem atdalīšanai gan kodolreaktoru degvielai, gan kodolieročiem."
+    },
+    "answergroups": [
+      "Halogen",
+      "Nonmetal"
+    ]
+  },
+  {
+    "element": "F",
+    "question": {
+      "et": "Üks väävliaatom ning kuus selle elemendi aatomit moodustavad raske gaasi, mida sisse hingates muutub hääl tavalisest palju madalamaks (kuigi gaas ise pole mürgine, võib see olla ohtlik, kuna õhust raskem gaas võib jääda kopsude põhja ning tekitada lämbumist).",
+      "en": "One sulfur atom and six atoms of this element form a heavy gas that makes the voice much lower when inhaled. Although the gas itself is not poisonous, it can be dangerous because, being heavier than air, it may collect in the lower parts of the lungs and cause suffocation.",
+      "lv": "Viens sēra atoms un seši šā elementa atomi veido smagu gāzi, kuru ieelpojot balss kļūst daudz zemāka. Lai gan pati gāze nav indīga, tā var būt bīstama, jo, būdama smagāka par gaisu, var sakrāties plaušu apakšējās daļās un izraisīt nosmakšanu."
+    },
+    "answergroups": [
+      "Halogen",
+      "Nonmetal",
+      "Noble"
+    ]
+  },
+  {
+    "element": "Ne",
+    "question": {
+      "et": "See element on tuntud eelkõige oma punakas-oranži helenduse poolest, kui sellest elektrivoolu läbi juhtida. Seda tüüpi valgustitest loodud sildid ja pildid olid väga populaarsed 1940–1950ndatel.",
+      "en": "This element is best known for its reddish-orange glow when an electric current passes through it. Signs and images made from this type of lighting were especially popular in the 1940s and 1950s.",
+      "lv": "Šis elements vislabāk zināms ar savu sarkanīgi oranžo spīdumu, kad caur to laiž elektrisko strāvu. No šāda veida apgaismojuma veidotas izkārtnes un attēli bija īpaši populāri 20. gadsimta 40. un 50. gados."
+    },
+    "answergroups": [
+      "Noble",
+      "Nonmetal",
+      "Halogen"
+    ]
+  },
+  {
+    "element": "Ne",
+    "question": {
+      "et": "See element on teadaolevalt kõige väiksema keemilise reaktiivsusega, olles tänaseni ainus element, millel pole teada ühtegi eksperimentaalselt kinnitatud ühendit, isegi äärmuslike temperatuuride ja rõhkude tingimustes.",
+      "en": "This is considered the least chemically reactive element known. To this day it is the only element with no experimentally confirmed compounds, even under extreme temperatures and pressures.",
+      "lv": "Šis tiek uzskatīts par ķīmiski vismazāk reaģētspējīgo zināmo elementu. Līdz šim tas ir vienīgais elements, kam nav neviena eksperimentāli apstiprināta savienojuma pat ārkārtējās temperatūrās un spiedienos."
+    },
+    "answergroups": [
+      "Noble",
+      "Halogen"
+    ]
+  },
+  {
+    "element": "Na",
+    "question": {
+      "et": "Tuntuim selle elemendi ühend on tavaline keedusool, mille kristallides on iga selle elemendi ioon seotud klooriioonidega.",
+      "en": "The best-known compound of this element is common table salt, whose crystals pair ions of this element with chloride ions.",
+      "lv": "Pazīstamākais šī elementa savienojums ir parastā galda sāls, kura kristālos šī elementa joni ir saistīti ar hlorīda joniem."
+    },
+    "answergroups": [
+      "Alkali",
+      "Alkaline",
+      "Poor",
+      "Transition"
+    ]
+  },
+  {
+    "element": "Na",
+    "question": {
+      "et": "Selle elemendi aatomite kollakas-oranž spektrijoon annab vanematele tänavavalgustitele nende iseloomuliku sooja kuma.",
+      "en": "The yellow-orange spectral light from atoms of this element gives older street lamps their characteristic warm glow.",
+      "lv": "Šī elementa atomu dzelteni oranžā spektrālā gaisma deva vecākajiem ielu lukturiem raksturīgo silto spīdumu."
+    },
+    "answergroups": [
+      "Alkali",
+      "Alkaline",
+      "Noble"
+    ]
+  },
+  {
+    "element": "Na",
+    "question": {
+      "et": "Mõnes kiirete neutronitega tuumareaktoris kasutatakse selle metalli vedelat kuju jahutusainena, sest see juhib hästi soojust ega pidurda neutroneid nii palju kui vesi.",
+      "en": "Some fast-neutron nuclear reactors use the liquid form of this metal as a coolant, because it carries heat well and slows neutrons much less than water does.",
+      "lv": "Dažos ātro neitronu kodolreaktoros šī metāla šķidro formu izmanto kā dzesētāju, jo tā labi vada siltumu un palēnina neitronus daudz mazāk nekā ūdens."
+    },
+    "answergroups": [
+      "Alkali",
+      "Alkaline",
+      "Poor",
+      "Transition"
+    ]
+  },
+  {
+    "element": "Mg",
+    "question": {
+      "et": "Klorofülli molekuli keskel, mille abil taimed päikesevalguse energiat püüavad, asub just selle elemendi ioon.",
+      "en": "An ion of this element sits at the centre of the chlorophyll molecule, which plants use to capture sunlight.",
+      "lv": "Hlorofila molekulas centrā, ar kuras palīdzību augi uztver Saules gaismas enerģiju, atrodas tieši šī elementa jons."
+    },
+    "answergroups": [
+      "Alkaline",
+      "Alkali",
+      "Poor",
+      "Transition"
+    ]
+  },
+  {
+    "element": "Mg",
+    "question": {
+      "et": "Selle metalli pulber või õhuke lint põleb pimestavalt valge leegiga, mistõttu kasutati seda kunagi fotovälklampides ning kasutatakse siiani pürotehnikas.",
+      "en": "Powder or thin ribbon of this metal burns with a dazzling white flame, so it was used in photographic flash powder and is still used in pyrotechnics.",
+      "lv": "Šī metāla pulveris vai plāna lente deg ar žilbinoši baltu liesmu, tāpēc to kādreiz izmantoja foto zibšņu pulverī un joprojām lieto pirotehnikā."
+    },
+    "answergroups": [
+      "Alkaline",
+      "Alkali",
+      "Poor",
+      "Transition"
+    ]
+  },
+  {
+    "element": "Mg",
+    "question": {
+      "et": "Koos alumiiniumiga annab see element väga kergeid sulameid, millest on tehtud lennukiosi, kaamerate keresid ja sülearvutite korpuseid.",
+      "en": "Together with aluminium, this element forms very light alloys used for aircraft parts, camera bodies and laptop cases.",
+      "lv": "Kopā ar alumīniju šis elements veido ļoti vieglus sakausējumus, no kuriem izgatavo lidmašīnu detaļas, fotoaparātu korpusus un klēpjdatoru korpusus."
+    },
+    "answergroups": [
+      "Alkaline",
+      "Alkali",
+      "Poor",
+      "Transition"
+    ]
+  },
+  {
+    "element": "Mg",
+    "question": {
+      "et": "Selle elemendi sulfaat on tuntud mõrusoolana ning seda kasutatakse nii meditsiinis kui ka aianduses.",
+      "en": "The sulfate of this element is known as Epsom salt and is used both in medicine and in gardening.",
+      "lv": "Šī elementa sulfāts ir pazīstams kā Epsomas sāls, un to izmanto gan medicīnā, gan dārzkopībā."
+    },
+    "answergroups": [
+      "Alkaline",
+      "Alkali",
+      "Poor"
+    ]
+  },
+  {
+    "element": "Al",
+    "question": {
+      "et": "See on maakoores kõige levinum metall, kuid ei esine kunagi puhtal kujul. Alles elektrienergia kasutuselevõtuga, mis võimaldas seda maagist (boksiidist) eraldada, muutus see laialdaselt kättesaadavaks.",
+      "en": "This is the most abundant metal in Earth's crust, but is nowhere found in pure form. It became widely available only after electricity made it practical to extract it from bauxite.",
+      "lv": "Tas ir visizplatītākais metāls Zemes garozā, taču tīra metāla veidā tas kļuva plaši pieejams tikai tad, kad elektrība ļāva praktiski reducēt tā oksīdu no boksīta."
+    },
+    "answergroups": [
+      "Poor",
+      "Transition",
+      "Alkaline"
+    ]
+  },
+  {
+    "element": "Al",
+    "question": {
+      "et": "Selle elemendi punase või sinise tooniga oksiidikristalle tuntakse rubiini ja safiirina; värvi annavad neile vaid väikesed lisandite kogused.",
+      "en": "Crystals of this element's oxide, coloured red or blue by tiny impurities, are known as ruby and sapphire.",
+      "lv": "Šī elementa oksīda kristāli, kurus niecīgi piemaisījumi iekrāso sarkanus vai zilus, ir pazīstami kā rubīns un safīrs."
+    },
+    "answergroups": [
+      "Poor",
+      "Metalloid",
+      "Transition"
+    ]
+  },
+  {
+    "element": "Al",
+    "question": {
+      "et": "Selle metalli nimi seostub kergete joogipurkidega, kuid sama elemendi pulbrist saab koos rauaoksiidiga termiidisegu, mis põleb piisavalt kuumalt, et metalli sulatada.",
+      "en": "Its name is associated with lightweight drink cans, yet powder of this same element with iron oxide forms thermite, a mixture hot enough to melt metal.",
+      "lv": "Tā nosaukums saistās ar vieglām dzērienu skārdenēm, tomēr šī paša elementa pulveris kopā ar dzelzs oksīdu veido termītu - maisījumu, kas deg pietiekami karsti, lai kausētu metālu."
+    },
+    "answergroups": [
+      "Poor",
+      "Alkaline",
+      "Transition"
+    ]
+  },
+  {
+    "element": "Si",
+    "question": {
+      "et": "See element moodustab hapnikuga kvartsist, liivast ja paljudest silikaatmineraalidest koosneva kivimite maailma, olles maakoores levikult teisel kohal.",
+      "en": "Combined with oxygen, this element makes up the world of quartz, sand and many silicate minerals, and it is the second most abundant element in Earth's crust.",
+      "lv": "Savienojumā ar skābekli šis elements veido kvarcu, smiltis un daudzus silikātu minerālus, un tas ir otrs izplatītākais elements Zemes garozā."
+    },
+    "answergroups": [
+      "Metalloid",
+      "Nonmetal",
+      "Poor"
+    ]
+  },
+  {
+    "element": "Si",
+    "question": {
+      "et": "Just sellest pooljuhist valmistatakse enamik mikrokiipe ja päikesepaneele; terve tehnoloogiapiirkond Californias on selle järgi nimetatud.",
+      "en": "Most microchip and solar-cell wafers are made from this semiconductor; an entire technology region in California is named after it.",
+      "lv": "No šī pusvadītāja izgatavo lielāko daļu mikroshēmu un saules elementu plākšņu; tā vārdā nosaukts vesels tehnoloģiju reģions Kalifornijā."
+    },
+    "answergroups": [
+      "Metalloid",
+      "Poor",
+      "Transition"
+    ]
+  },
+  {
+    "element": "P",
+    "question": {
+      "et": "Selle elemendi valge allotroop süttib õhus kergesti ja helendab pimedas; samast nimest tulebki sõna, mis tähendab valgusekandjat.",
+      "en": "The white allotrope of this element ignites easily in air and glows in the dark; its name itself means 'light-bringer'.",
+      "lv": "Šī elementa baltā alotropā forma gaisā viegli aizdegas un tumsā spīd; arī tā nosaukums nozīmē 'gaismas nesējs'."
+    },
+    "answergroups": [
+      "Nonmetal",
+      "Metalloid",
+      "Halogen"
+    ]
+  },
+  {
+    "element": "P",
+    "question": {
+      "et": "DNA ja RNA ahelate selgroog koosneb suhkrutest ja selle elemendi hapnikuühenditest; sama element on ka ATP energiamolekuli lahutamatu osa.",
+      "en": "The backbone of DNA and RNA is built from sugars and oxygen compounds of this element; the same element is also essential in the energy molecule ATP.",
+      "lv": "DNS un RNS ķēžu mugurkaulu veido cukuri un šī elementa skābekļa savienojumi; tas pats elements ir būtiska ATP enerģijas molekulas daļa."
+    },
+    "answergroups": [
+      "Nonmetal",
+      "Metalloid",
+      "Poor"
+    ]
+  },
+  {
+    "element": "P",
+    "question": {
+      "et": "Selle elemendi ühendid on väetiste põhikomponendid, kuid liigsel sattumisel veekogudesse põhjustavad need vetikate vohamist.",
+      "en": "Compounds of this element are key ingredients of fertilisers, but too much of them in waterways can feed algal blooms.",
+      "lv": "Šī elementa savienojumi ir galvenas mēslojuma sastāvdaļas, taču pārmērīgā daudzumā ūdeņos tie veicina aļģu ziedēšanu."
+    },
+    "answergroups": [
+      "Nonmetal",
+      "Metalloid",
+      "Poor"
+    ]
+  },
+  {
+    "element": "P",
+    "question": {
+      "et": "Selle elemendi avastas alkeemik Hennig Brand 17. sajandil uriini kuumutades ja aurutades - üks värvikamaid avastuslugusid keemias.",
+      "en": "The alchemist Hennig Brand discovered this element in the seventeenth century by heating and evaporating urine, one of chemistry's more colourful discovery stories.",
+      "lv": "Alķīmiķis Henigs Brands 17. gadsimtā atklāja šo elementu, karsējot un iztvaicējot urīnu - vienu no krāšņākajiem atklāšanas stāstiem ķīmijā."
+    },
+    "answergroups": [
+      "Nonmetal",
+      "Metalloid",
+      "Halogen"
+    ]
+  },
+  {
+    "element": "S",
+    "question": {
+      "et": "Selle kollase aine vesinikuühend annab mädamunade lõhna.",
+      "en": "The hydrogen compound of this element is responsible for the smell of rotten eggs.",
+      "lv": "Šī elementa ūdeņraža savienojums rada puvušu olu smaku."
+    },
+    "answergroups": [
+      "Nonmetal",
+      "Metalloid",
+      "Halogen"
+    ]
+  },
+  {
+    "element": "S",
+    "question": {
+      "et": "See element moodustab mitu hästituntud ja tööstuses laialt kasutatavat hapet, näiteks akuhappe ning soolhappena on see üks kahest 'kuningvee' komponendist, mis suudab isegi kulda lahustada.",
+      "en": "This element forms many well-known and widely industrially used acids, for example battery acid and the aqueous solution of its chloride is one of the components of 'aqua regia' or royal water, which is capable of dissolving gold.",
+      "lv": "Šis elements veido daudzas labi zināmas un plaši rūpnieciski izmantotas skābes, piemēram, akumulatoru skābi, un tā hlorīda ūdens šķīdums ir viena no karaļūdens jeb karaliskā ūdens sastāvdaļām, kas spēj šķīdināt zeltu."
+    },
+    "answergroups": [
+      "Nonmetal",
+      "Metalloid",
+      "Poor"
+    ]
+  },
+  {
+    "element": "Cl",
+    "question": {
+      "et": "Selle rohekaskollase mürgise gaasi ühendeid kasutatakse joogivee ja basseinivee desinfitseerimiseks.",
+      "en": "Compounds of this greenish-yellow poisonous gas are used to disinfect drinking water and swimming pools.",
+      "lv": "Šīs zaļgani dzeltenās indīgās gāzes savienojumus izmanto dzeramā ūdens un peldbaseinu dezinfekcijai."
+    },
+    "answergroups": [
+      "Halogen",
+      "Nonmetal",
+      "Noble"
+    ]
+  },
+  {
+    "element": "Cl",
+    "question": {
+      "et": "Koos naatriumiga moodustab see tavalise soola, mida inimesed on kasutanud maitsestamiseks ja toidu säilitamiseks juba muinasajast.",
+      "en": "Together with sodium, this element forms the common table salt, which people have used to flavour and preserve food since ancient times.",
+      "lv": "Kopā ar nātriju šis elements veido parasto galda sāli, ko cilvēki kopš seniem laikiem izmanto ēdiena garšas uzlabošanai un saglabāšanai."
+    },
+    "answergroups": [
+      "Halogen",
+      "Nonmetal",
+      "Noble"
+    ]
+  },
+  {
+    "element": "Cl",
+    "question": {
+      "et": "Esimeses maailmasõjas sai sellest gaasist üks esimesi laialdaselt kasutatud keemiarelvi, kuid rahuajal on selle ühenditel palju hügieeniga seotud kasutusi.",
+      "en": "In the First World War this gas became one of the first widely used chemical weapons, although in peacetime its compounds have many hygiene-related uses.",
+      "lv": "Pirmajā pasaules karā šī gāze kļuva par vienu no pirmajiem plaši izmantotajiem ķīmiskajiem ieročiem, lai gan miera laikā tās savienojumiem ir daudz higiēnas pielietojumu."
+    },
+    "answergroups": [
+      "Halogen",
+      "Nonmetal",
+      "Noble"
+    ]
+  },
+  {
+    "element": "Ar",
+    "question": {
+      "et": "See väärisgaas moodustab peaaegu ühe protsendi Maa atmosfäärist, olles palju levinum kui näiteks süsihappegaas.",
+      "en": "This noble gas makes up nearly one percent of Earth's atmosphere and is far more abundant than carbon dioxide.",
+      "lv": "Šī cēlgāze veido gandrīz vienu procentu Zemes atmosfēras un tajā ir daudz izplatītāka nekā oglekļa dioksīds."
+    },
+    "answergroups": [
+      "Noble",
+      "Nonmetal",
+      "Halogen"
+    ]
+  },
+  {
+    "element": "Ar",
+    "question": {
+      "et": "Selle elemendi nimi tähendab kreeka keeles laiska või tegevusetut, viidates tema keemilisele inertsusele.",
+      "en": "The name of this element comes from the Greek word for lazy or inactive, a reference to its chemical inertness.",
+      "lv": "Šī elementa nosaukums cēlies no grieķu vārda, kas nozīmē slinks vai neaktīvs, atsaucoties uz tā ķīmisko inerci."
+    },
+    "answergroups": [
+      "Noble",
+      "Nonmetal",
+      "Halogen"
+    ]
+  },
+  {
+    "element": "Ar",
+    "question": {
+      "et": "Seda odavat inertset gaasi kasutatakse hõõglampides ja keevitamisel, et kuum metall või hõõgniit ei reageeriks õhuhapnikuga.",
+      "en": "This inexpensive inert gas is used in light bulbs and welding so that hot metal or a glowing filament does not react with oxygen in air.",
+      "lv": "Šo lēto inerto gāzi izmanto kvēlspuldzēs un metināšanā, lai karsts metāls vai kvēldiegs nereaģētu ar gaisa skābekli."
+    },
+    "answergroups": [
+      "Noble",
+      "Nonmetal",
+      "Halogen"
+    ]
+  },
+  {
+    "element": "K",
+    "question": {
+      "et": "Selle elemendi ioonid on närviimpulsside, südamelihase töö ja rakkude veetasakaalu jaoks hädavajalikud; argikeeles seostatakse seda sageli banaanidega.",
+      "en": "Ions of this element are essential for nerve impulses, heart muscle and the water balance of cells; in everyday talk it is often associated with bananas.",
+      "lv": "Šī elementa joni ir nepieciešami nervu impulsiem, sirds muskulim un šūnu ūdens līdzsvaram; ikdienā to bieži saista ar banāniem."
+    },
+    "answergroups": [
+      "Alkali",
+      "Alkaline",
+      "Poor"
+    ]
+  },
+  {
+    "element": "K",
+    "question": {
+      "et": "Selle elemendi looduslik radioaktiivne isotoop massiarvuga 40 on üks põhjus, miks ka meie enda kehad on veidi radioaktiivsed.",
+      "en": "A natural radioactive isotope of this element, with mass number 40, is one reason why our own bodies are slightly radioactive.",
+      "lv": "Šī elementa dabīgais radioaktīvais izotops ar masas skaitli 40 ir viens no iemesliem, kāpēc arī mūsu pašu ķermeņi ir nedaudz radioaktīvi."
+    },
+    "answergroups": [
+      "Alkali",
+      "Alkaline",
+      "Actinoid"
+    ]
+  },
+  {
+    "element": "K",
+    "question": {
+      "et": "Nagu teised leelismetallid, reageerib ka see element veega väga ägedalt ning tema soolad värvivad leegi lillakaks.",
+      "en": "Like other alkali metals, this element reacts very vigorously with water, and its salts colour a flame purple.",
+      "lv": "Tāpat kā citi sārmu metāli, šis elements ļoti strauji reaģē ar ūdeni, un tā sāļi iekrāso liesmu violetu."
+    },
+    "answergroups": [
+      "Alkali",
+      "Alkaline",
+      "Poor"
+    ]
+  },
+  {
+    "element": "Ca",
+    "question": {
+      "et": "Meie luude ja hammaste mineraalne tugevus tuleb suuresti selle elemendi fosfaadi- ja karbonaadiühenditest.",
+      "en": "Much of the mineral strength of our bones and teeth comes from phosphate and carbonate compounds of this element.",
+      "lv": "Mūsu kaulu un zobu minerālā izturība lielā mērā nāk no šī elementa fosfātu un karbonātu savienojumiem."
+    },
+    "answergroups": [
+      "Alkaline",
+      "Alkali",
+      "Poor",
+      "Transition"
+    ]
+  },
+  {
+    "element": "Ca",
+    "question": {
+      "et": "Paekivi, marmor, kriit ning paljude koobaste stalaktiidid ja stalagmiidid koosnevad selle elemendi karbonaadist.",
+      "en": "Limestone, marble, chalk, and many cave stalactites and stalagmites are based on the carbonate of this element.",
+      "lv": "Kaļķakmens, marmors, krīts un daudzi alu stalaktīti un stalagmīti balstās uz šī elementa karbonātu."
+    },
+    "answergroups": [
+      "Alkaline",
+      "Alkali",
+      "Poor"
+    ]
+  },
+  {
+    "element": "Ca",
+    "question": {
+      "et": "Selle elemendi oksiid ehk kustutamata lubi on tähtis tsemendi, mördi ja terasetööstuse abiaine.",
+      "en": "The oxide of this element, quicklime, is an important material in cement, mortar and steelmaking.",
+      "lv": "Šī elementa oksīds jeb nedzēstais kaļķis ir svarīga viela cementā, javā un tērauda ražošanā."
+    },
+    "answergroups": [
+      "Alkaline",
+      "Alkali",
+      "Poor",
+      "Transition"
+    ]
+  },
+  {
+    "element": "Sc",
+    "question": {
+      "et": "Mendelejev ennustas selle elemendi olemasolu nimega eka-boor, enne kui see hiljem Skandinaavia mineraalidest leiti.",
+      "en": "Mendeleev predicted this element as 'eka-boron' before it was later found in minerals from Scandinavia.",
+      "lv": "Mendeļejevs paredzēja šo elementu kā 'eka-boru', pirms tas vēlāk tika atrasts Skandināvijas minerālos."
+    },
+    "answergroups": [
+      "Transition",
+      "Alkaline",
+      "Lanthanoid"
+    ]
+  },
+  {
+    "element": "Ti",
+    "question": {
+      "et": "See metall on terasest palju kergem ning ühtlasi väga tugev ja korrosioonikindel; seetõttu kasutatakse seda lennukites, implantaatides ja mereveega kokkupuutuvates seadmetes.",
+      "en": "This metal is much lighter than steel but also strong and corrosion-resistant, so it is used in aircraft, medical implants and equipment exposed to seawater.",
+      "lv": "Šis metāls ir daudz vieglāks par tēraudu, tomēr stiprs un izturīgs pret koroziju, tāpēc to izmanto lidmašīnās, implantos un iekārtās, kas saskaras ar jūras ūdeni."
+    },
+    "answergroups": [
+      "Transition",
+      "Poor",
+      "Alkaline"
+    ]
+  },
+  {
+    "element": "Ti",
+    "question": {
+      "et": "Selle elemendi dioksiid on üks tähtsamaid valgeid pigmente maailmas, andes värvidele, plastidele, paberile ja päikesekreemidele ereda valge tooni.",
+      "en": "The dioxide of this element is one of the world's most important white pigments, giving paints, plastics, paper and sunscreens a bright white colour.",
+      "lv": "Šī elementa dioksīds ir viens no svarīgākajiem baltajiem pigmentiem pasaulē, piešķirot krāsām, plastmasām, papīram un saules aizsargkrēmiem spilgti baltu toni."
+    },
+    "answergroups": [
+      "Transition",
+      "Poor",
+      "Metalloid"
+    ]
+  },
+  {
+    "element": "Ti",
+    "question": {
+      "et": "Erinevalt paljudest metallidest talub see element hästi inimkeha keskkonda, mistõttu valmistatakse sellest puusa- ja hambaimplantaate.",
+      "en": "Unlike many metals, this element tolerates the environment of the human body well, which is why hip and dental implants are made from it.",
+      "lv": "Atšķirībā no daudziem metāliem šis elements labi panes cilvēka ķermeņa vidi, tāpēc no tā izgatavo gūžas un zobu implantus."
+    },
+    "answergroups": [
+      "Transition",
+      "Poor",
+      "Alkaline"
+    ]
+  },
+  {
+    "element": "V",
+    "question": {
+      "et": "Selle elemendi nimi viitab Põhjala jumalannale Vanadisele, sest tema ühendid võivad olla väga erinevates erksates värvides.",
+      "en": "This element is named after the Norse goddess Vanadis, because its compounds can have many striking colours.",
+      "lv": "Šis elements nosaukts ziemeļu dievietes Vanadisas vārdā, jo tā savienojumi var būt ļoti dažādās spilgtās krāsās."
+    },
+    "answergroups": [
+      "Transition",
+      "Poor",
+      "Lanthanoid"
+    ]
+  },
+  {
+    "element": "Cr",
+    "question": {
+      "et": "Väike kogus seda elementi muudab terase roostevabaks, sest pinnale tekib tihe kaitsev oksiidikiht.",
+      "en": "A small amount of this element makes steel stainless, because a dense protective oxide layer forms on the surface.",
+      "lv": "Neliels šī elementa daudzums padara tēraudu nerūsējošu, jo uz virsmas izveidojas blīvs aizsargājošs oksīda slānis."
+    },
+    "answergroups": [
+      "Transition",
+      "Poor",
+      "Alkaline"
+    ]
+  },
+  {
+    "element": "Cr",
+    "question": {
+      "et": "Selle elemendi nimi tuleb kreekakeelsest sõnast värvi kohta, sest tema ühendid võivad olla punased, rohelised, kollased või violetsed.",
+      "en": "The name of this element comes from the Greek word for colour, because its compounds can be red, green, yellow or violet.",
+      "lv": "Šī elementa nosaukums cēlies no grieķu vārda, kas apzīmē krāsu, jo tā savienojumi var būt sarkani, zaļi, dzelteni vai violeti."
+    },
+    "answergroups": [
+      "Transition",
+      "Metalloid",
+      "Poor"
+    ]
+  },
+  {
+    "element": "Cr",
+    "question": {
+      "et": "Rubiini punane ja smaragdi roheline toon pärinevad selle elemendi ioonidest, mis asendavad kristallvõres mõne teise aatomi.",
+      "en": "Both the red of ruby and the green of emerald come from ions of this element substituted into a crystal lattice.",
+      "lv": "Gan rubīna sarkanā, gan smaragda zaļā rāsa rodas no šī elementa joniem, kas kristāla režģī aizvieto citus atomus."
+    },
+    "answergroups": [
+      "Transition",
+      "Poor",
+      "Lanthanoid"
+    ]
+  },
+  {
+    "element": "Mn",
+    "question": {
+      "et": "Selle elemendi dioksiidi leidub tavalistes tsink-süsinik kuivpatareides ning see aitab patareil elektrivoolu anda.",
+      "en": "The dioxide of this element is found in ordinary zinc-carbon dry cells and helps the battery deliver current.",
+      "lv": "Šī elementa dioksīds atrodams parastajās cinka-oglekļa sausajās baterijās un palīdz baterijai dot elektrisko strāvu."
+    },
+    "answergroups": [
+      "Transition",
+      "Poor",
+      "Alkaline"
+    ]
+  },
+  {
+    "element": "Mn",
+    "question": {
+      "et": "Selle elemendi ühend on tuntud sügavlilla lahus, mida kasutatakse tugeva oksüdeerijana ja mõnikord desinfitseerimiseks.",
+      "en": "A well-known compound of this element is a deep purple solution used as a strong oxidising agent and sometimes as a disinfectant.",
+      "lv": "Šī elementa labi pazīstams savienojums ir tumši violets šķīdums, ko izmanto kā spēcīgu oksidētāju un reizēm dezinfekcijai."
+    },
+    "answergroups": [
+      "Transition",
+      "Metalloid",
+      "Halogen"
+    ]
+  },
+  {
+    "element": "Fe",
+    "question": {
+      "et": "Selle elemendi ja süsiniku sulam teras on üks inimtsivilisatsiooni tähtsamaid materjale, mida kasutatakse praktiliselt kõikjal alates hoonetest ja sildadest kuni tööriistadeni.",
+      "en": "Steel, an alloy of this element with carbon, is one of the most important materials of human civilisation, used in almost everything from buildings and bridges to tools.",
+      "lv": "Tērauds, šī elementa sakausējums ar oglekli, ir viens no svarīgākajiem cilvēku civilizācijas materiāliem, ko izmanto gandrīz visur, sākot no ēkām un tiltiem līdz pat instrumentiem."
+    },
+    "answergroups": [
+      "Transition",
+      "Poor",
+      "Alkaline"
+    ]
+  },
+  {
+    "element": "Fe",
+    "question": {
+      "et": "Hemoglobiini molekulis hoiab hapnikku kinni just selle elemendi ioon, andes verele iseloomuliku punase värvuse.",
+      "en": "In hemoglobin, an ion of this element binds oxygen and gives blood its characteristic red colour.",
+      "lv": "Hemoglobīnā tieši šī elementa jons saista skābekli un piešķir asinīm raksturīgo sarkano krāsu."
+    },
+    "answergroups": [
+      "Transition",
+      "Poor",
+      "Nonmetal"
+    ]
+  },
+  {
+    "element": "Fe",
+    "question": {
+      "et": "Tähtede südametes on see element piiriks, millest raskemate aatomituumade süntees ei vabasta enam energiat. Kui massiivses tähes moodustub sellest elemendist südamik, plahvatab see supernoovana.",
+      "en": "In stellar cores, nuclei of this element mark the point beyond which fusion no longer releases extra energy. As a core of this element forms in a massive star and releases no further energy, the star becomes a supernova.",
+      "lv": "Zvaigžņu kodolos kodoli ap šo elementu iezīmē robežu, aiz kuras kodolsintēze vairs neatbrīvo papildu enerģiju. Tā kā šī elementa kodols veidojas masīvā zvaigznē un vairs neizdala enerģiju, zvaigzne kļūst par supernovu."
+    },
+    "answergroups": [
+      "Transition",
+      "Poor",
+      "Actinoid"
+    ]
+  },
+  {
+    "element": "Fe",
+    "question": {
+      "et": "Maa sise- ja välistuum koosneb peamiselt sellest elemendist koos nikliga, ning selle vedela massi liikumine välistuumas tekitab meie planeedi magnetvälja.",
+      "en": "Earth's inner and outer core consists mostly of this element together with nickel, and the motion of this molten mass in the outer core generates our planet's magnetic field.",
+      "lv": "Zemes iekšējais un ārējais kodols galvenokārt sastāv no šī elementa kopā ar niķeli, un šīs izkusušās masas kustība ārējā kodolā rada mūsu planētas magnētisko lauku."
+    },
+    "answergroups": [
+      "Transition",
+      "Poor",
+      "Alkaline"
+    ]
+  },
+  {
+    "element": "Fe",
+    "question": {
+      "et": "Kui see metall niiskes õhus aeglaselt hapnikuga reageerib, tekib punakaspruun rooste – inimkonna üks tuntumaid korrosiooninäiteid.",
+      "en": "When this metal slowly reacts with oxygen in moist air, reddish-brown rust forms: one of humanity's best-known examples of corrosion.",
+      "lv": "Kad šis metāls mitrā gaisā lēni reaģē ar skābekli, veidojas sarkanbrūna rūsa – viens no pazīstamākajiem korozijas piemēriem."
+    },
+    "answergroups": [
+      "Transition",
+      "Poor",
+      "Alkaline"
+    ]
+  },
+  {
+    "element": "Co",
+    "question": {
+      "et": "Vitamiin B12 ehk kobalamiin sisaldab oma molekuli keskel just selle elemendi aatomit.",
+      "en": "Vitamin B12, also called cobalamin, contains an atom of this element at the centre of its molecule.",
+      "lv": "B12 vitamīns jeb kobalamīns savas molekulas centrā satur tieši šī elementa atomu."
+    },
+    "answergroups": [
+      "Transition",
+      "Poor",
+      "Nonmetal"
+    ]
+  },
+  {
+    "element": "Co",
+    "question": {
+      "et": "Selle radioaktiivset isotoopi massiarvuga 60 kasutatakse kiiritusravis ja meditsiinivahendite steriliseerimisel tugeva gammakiirguse allikana.",
+      "en": "The radioactive isotope of this element with mass number 60 is used in radiotherapy and sterilising medical equipment as a strong gamma-ray source.",
+      "lv": "Šī elementa radioaktīvo izotopu ar masas skaitli 60 izmanto staru terapijā un medicīnas instrumentu sterilizācijā kā spēcīgu gamma starojuma avotu."
+    },
+    "answergroups": [
+      "Transition",
+      "Actinoid",
+      "Lanthanoid"
+    ]
+  },
+  {
+    "element": "Ni",
+    "question": {
+      "et": "Seda metalli kasutatakse roostevabas terases ja müntides; inglise keeles on isegi ühe väikese mündi rahvapärane nimi sama, mis sellel elemendil.",
+      "en": "This metal is used in stainless steel and coins; in English, a small coin is even commonly named after this element.",
+      "lv": "Šo metālu izmanto nerūsējošajā tēraudā un monētās; angļu valodā viena monēta pat ikdienā nosaukta šī elementa vārdā."
+    },
+    "answergroups": [
+      "Transition",
+      "Poor",
+      "Alkaline"
+    ]
+  },
+  {
+    "element": "Ni",
+    "question": {
+      "et": "See element on üks sagedasemaid metalle, mis põhjustab ehetest, kellarihmadest või nööpidest tekkivat kontaktallergiat.",
+      "en": "This element is one of the commonest metals causing contact allergy from jewellery, watch straps or buttons.",
+      "lv": "Šis elements ir viens no visbiežākajiem metāliem, kas izraisa kontaktalerģiju no rotaslietām, pulksteņu siksniņām vai pogām."
+    },
+    "answergroups": [
+      "Transition",
+      "Poor",
+      "Alkaline"
+    ]
+  },
+  {
+    "element": "Cu",
+    "question": {
+      "et": "See punakas metall on üks esimesi, mida inimesed kasutasid, sest seda leidub looduses mõnikord ka puhtal kujul.",
+      "en": "This reddish metal was one of the first that humans used in pure form, because it can sometimes be found in nature as native metal.",
+      "lv": "Šis sarkanīgais metāls bija viens no pirmajiem, ko cilvēki izmantoja tīrā veidā, jo dabā tas reizēm sastopams kā dzimtmetāls."
+    },
+    "answergroups": [
+      "Transition",
+      "Poor",
+      "Alkaline"
+    ]
+  },
+  {
+    "element": "Cu",
+    "question": {
+      "et": "Tänapäeval veetakse elektrit kodudes ja kaablites väga sageli just sellest elemendist juhtmete kaudu, sest see juhib hästi elektrit.",
+      "en": "Today electricity in homes and cables is very often carried through wires of this element, because it conducts electricity well.",
+      "lv": "Mūsdienās elektrību mājās un kabeļos ļoti bieži vada šī elementa vadi, jo tas labi vada elektrību."
+    },
+    "answergroups": [
+      "Transition",
+      "Poor",
+      "Alkaline"
+    ]
+  },
+  {
+    "element": "Cu",
+    "question": {
+      "et": "Koos tinaga moodustab see element pronksi ja koos tsingiga messingi – kaks inimkonna ajaloos väga tähtsat sulamit.",
+      "en": "With tin this element forms bronze, and with zinc it forms brass: two alloys of great importance in human history.",
+      "lv": "Kopā ar alvu šis elements veido bronzu, bet kopā ar cinku – misiņu: divus cilvēces vēsturē ļoti svarīgus sakausējumus."
+    },
+    "answergroups": [
+      "Transition",
+      "Poor",
+      "Alkaline"
+    ]
+  },
+  {
+    "element": "Cu",
+    "question": {
+      "et": "Vabadussamba roheline värvus New Yorgis ei ole värvikiht, vaid selle metalli pinnale tekkinud karbonaatne paatina.",
+      "en": "The green colour of the Statue of Liberty in New York is not paint, but a carbonate patina formed on the surface of this metal.",
+      "lv": "Brīvības statujas zaļā krāsa Ņujorkā nav krāsa, bet karbonātu patina, kas izveidojusies uz šī metāla virsmas."
+    },
+    "answergroups": [
+      "Transition",
+      "Poor",
+      "Alkaline"
+    ]
+  },
+  {
+    "element": "Cu",
+    "question": {
+      "et": "Hemoglobiini asemel kannab paljude molluskite ja lülijalgsete veres hapnikku sinakas hemotsüaniin, mille aktiivses keskuses on just selle elemendi aatomid.",
+      "en": "Instead of hemoglobin, in many molluscs and arthropods, oxygen is carried by the bluish haemocyanin instead, whose active centre contains atoms of this element.",
+      "lv": "Daudzos gliemjos un posmkāju šūnās skābekli hemoglobīna vietā pārnēsā zilganais hemocianīns, kura aktīvais centrs satur šī elementa atomus."
+    },
+    "answergroups": [
+      "Transition",
+      "Poor",
+      "Nonmetal"
+    ]
+  },
+  {
+    "element": "Zn",
+    "question": {
+      "et": "Terase galvaniseerimisel kaetakse see selle elemendiga, mis korrodeerub ise ja kaitseb all olevat rauda roostetamise eest.",
+      "en": "When steel is galvanised, it is coated with this element, which corrodes sacrificially and protects the iron beneath from rusting.",
+      "lv": "Galvanizējot tēraudu, to pārklāj ar šo elementu, kas korodē pats un pasargā apakšā esošo dzelzi no rūsēšanas."
+    },
+    "answergroups": [
+      "Transition",
+      "Poor",
+      "Alkaline"
+    ]
+  },
+  {
+    "element": "Zn",
+    "question": {
+      "et": "Koos vasega moodustab see element messingi, kuldse tooniga sulami, mida kasutatakse nii muusikariistades kui ka lukkudes.",
+      "en": "Together with copper, this element forms brass, a golden-looking alloy used in musical instruments as well as locks.",
+      "lv": "Kopā ar varu šis elements veido misiņu - zeltaina izskata sakausējumu, ko izmanto gan mūzikas instrumentos, gan slēdzenēs."
+    },
+    "answergroups": [
+      "Transition",
+      "Poor",
+      "Alkaline"
+    ]
+  },
+  {
+    "element": "Zn",
+    "question": {
+      "et": "Selle elemendi valget oksiidi kasutatakse päikesekreemides ja nahasalvides, sest see peegeldab ja neelab ultraviolettkiirgust.",
+      "en": "The white oxide of this element is used in sunscreens and skin ointments because it reflects and absorbs ultraviolet radiation.",
+      "lv": "Šī elementa balto oksīdu izmanto saules aizsargkrēmos un ādas ziedēs, jo tas atstaro un absorbē ultravioleto starojumu."
+    },
+    "answergroups": [
+      "Transition",
+      "Poor",
+      "Alkaline"
+    ]
+  },
+  {
+    "element": "Ga",
+    "question": {
+      "et": "See hõbedane metall sulab juba veidi alla 30°C juures, nii et väike tükk võib soojas käes vedelaks muutuda.",
+      "en": "This silvery metal melts just below 30°C, so a small piece can become liquid in a warm hand.",
+      "lv": "Šis sudrabainais metāls kūst jau nedaudz zem 30°C, tāpēc mazs gabaliņš siltā rokā var kļūt šķidrs."
+    },
+    "answergroups": [
+      "Poor",
+      "Transition",
+      "Alkali"
+    ]
+  },
+  {
+    "element": "Ga",
+    "question": {
+      "et": "Selle elemendi ja arseeni ühend on tähtis pooljuht valgusdioodides, laserites ja kiiretes elektroonikaseadmetes.",
+      "en": "A compound of this element with arsenic is an important semiconductor in LEDs, lasers and high-speed electronics.",
+      "lv": "Šī elementa savienojums ar arsēnu ir svarīgs pusvadītājs gaismas diodēs, lāzeros un ātrdarbīgā elektronikā."
+    },
+    "answergroups": [
+      "Poor",
+      "Metalloid",
+      "Transition"
+    ]
+  },
+  {
+    "element": "Ge",
+    "question": {
+      "et": "Mendelejev ennustas selle elemendi omadusi nimega eka-räni nii täpselt, et hilisem avastus oli perioodilisustabeli suur võit.",
+      "en": "Mendeleev predicted the properties of this element as 'eka-silicon' so accurately that its later discovery became a triumph for the periodic table.",
+      "lv": "Mendeļejevs šī elementa īpašības kā 'eka-silīciju' paredzēja tik precīzi, ka tā vēlākā atklāšana kļuva par periodiskās tabulas triumfu."
+    },
+    "answergroups": [
+      "Metalloid",
+      "Poor",
+      "Transition"
+    ]
+  },
+  {
+    "element": "As",
+    "question": {
+      "et": "Selle elemendi trioksiid oli ajalooliselt kurikuulus mürk, mida oli raske toidus märgata.",
+      "en": "The trioxide of this element was historically a notorious poison, difficult to detect in food.",
+      "lv": "Šī elementa trioksīds vēsturiski bija bēdīgi slavena inde, ko ēdienā bija grūti pamanīt."
+    },
+    "answergroups": [
+      "Metalloid",
+      "Nonmetal",
+      "Poor"
+    ]
+  },
+  {
+    "element": "Se",
+    "question": {
+      "et": "Selle elemendi elektrijuhtivus muutub valguse käes, mistõttu kasutati seda kunagi valgusmõõturites ja koopiamasinates.",
+      "en": "The electrical conductivity of this element changes in light, so it was once used in light meters and photocopiers.",
+      "lv": "Šī elementa elektriskā vadītspēja mainās gaismā, tāpēc to kādreiz izmantoja ekspozīcijas mērītājos un kopētājos."
+    },
+    "answergroups": [
+      "Nonmetal",
+      "Metalloid",
+      "Halogen"
+    ]
+  },
+  {
+    "element": "Se",
+    "question": {
+      "et": "Selle elemendi nimi viitab Kuule, olles paariline elemendile, mille nimi viitab Maale.",
+      "en": "The name of this element refers to the Moon, as a counterpart to another element whose name refers to Earth.",
+      "lv": "Šī elementa nosaukums norāda uz Mēnesi, kā pārinieks elementam, kura nosaukums norāda uz Zemi."
+    },
+    "answergroups": [
+      "Nonmetal",
+      "Metalloid",
+      "Halogen"
+    ]
+  },
+  {
+    "element": "Br",
+    "question": {
+      "et": "See on ainus mittemetall, mis on toatemperatuuril vedel: punakaspruun, lenduv ja terava lõhnaga aine.",
+      "en": "This is the only nonmetal that is liquid at room temperature: a reddish-brown, volatile substance with a sharp smell.",
+      "lv": "Tas ir vienīgais nemetāls, kas istabas temperatūrā ir šķidrs: sarkanbrūna, gaistoša viela ar asu smaku."
+    },
+    "answergroups": [
+      "Halogen",
+      "Nonmetal",
+      "Noble"
+    ]
+  },
+  {
+    "element": "Br",
+    "question": {
+      "et": "Selle elemendi nimi tuleb kreekakeelsest sõnast haisu kohta, sest puhas aine ja tema aurud lõhnavad väga ebameeldivalt.",
+      "en": "The name of this element comes from a Greek word for stench, because the pure substance and its vapours smell very unpleasant.",
+      "lv": "Šī elementa nosaukums cēlies no grieķu vārda, kas nozīmē smaku, jo tīrā viela un tās tvaiki smaržo ļoti nepatīkami."
+    },
+    "answergroups": [
+      "Halogen",
+      "Nonmetal",
+      "Noble"
+    ]
+  },
+  {
+    "element": "Br",
+    "question": {
+      "et": "Hõbeda ühend selle elemendiga oli klassikalise fotofilmi valgusetundlik materjal.",
+      "en": "A compound of silver with this element was the light-sensitive material of classic photographic film.",
+      "lv": "Sudraba savienojums ar šo elementu bija klasiskās fotofilmas gaismjutīgais materiāls."
+    },
+    "answergroups": [
+      "Halogen",
+      "Nonmetal",
+      "Noble"
+    ]
+  },
+  {
+    "element": "Kr",
+    "question": {
+      "et": "Seda väärisgaasi kasutatakse väga eredates välklampides ja mõnes laseris; tema nimi tähendab kreeka keeles peidetut.",
+      "en": "This noble gas is used in very bright flash lamps and some lasers; its name means 'hidden' in Greek.",
+      "lv": "Šo cēlgāzi izmanto ļoti spilgtās zibspuldzēs un dažos lāzeros; tās nosaukums grieķiski nozīmē 'apslēpts'."
+    },
+    "answergroups": [
+      "Noble",
+      "Nonmetal",
+      "Halogen"
+    ]
+  },
+  {
+    "element": "Kr",
+    "question": {
+      "et": "Aastatel 1960–1983 defineeriti meeter selle elemendi isotoobi oranžpunase spektrijoone lainepikkuse abil.",
+      "en": "From 1960 to 1983 the metre was defined using the wavelength of an orange-red spectral line from an isotope of this element.",
+      "lv": "No 1960. līdz 1983. gadam metru definēja, izmantojot šī elementa izotopa oranži sarkanās spektrālās līnijas viļņa garumu."
+    },
+    "answergroups": [
+      "Noble",
+      "Nonmetal",
+      "Halogen"
+    ]
+  },
+  {
+    "element": "Rb",
+    "question": {
+      "et": "Selle pehme leelismetalli nimi tuleb tema spektris nähtavatest sügavpunastest joontest.",
+      "en": "The name of this soft alkali metal comes from the deep red lines seen in its spectrum.",
+      "lv": "Šī mīkstā sārmu metāla nosaukums cēlies no tumši sarkanām līnijām tā spektrā."
+    },
+    "answergroups": [
+      "Alkali",
+      "Alkaline",
+      "Poor"
+    ]
+  },
+  {
+    "element": "Sr",
+    "question": {
+      "et": "Selle elemendi soolad annavad ilutulestikele ja signaalrakettidele ereda punase värvuse.",
+      "en": "Salts of this element give fireworks and signal flares a bright red colour.",
+      "lv": "Šī elementa sāļi piešķir uguņošanai un signālraķetēm spilgti sarkanu krāsu."
+    },
+    "answergroups": [
+      "Alkaline",
+      "Alkali",
+      "Poor"
+    ]
+  },
+  {
+    "element": "Sr",
+    "question": {
+      "et": "Radioaktiivne isotoop massiarvuga 90 on ohtlik tuumasaaste, sest keha võib teda käsitleda kaltsiumi sarnaselt ja ladestada luudesse.",
+      "en": "The radioactive isotope with mass number 90 is dangerous nuclear contamination because the body can treat it like calcium and deposit it in bones.",
+      "lv": "Radioaktīvais izotops ar masas skaitli 90 ir bīstams kodolpiesārņojums, jo organisms to var uztvert līdzīgi kalcijam un nogulsnēt kaulos."
+    },
+    "answergroups": [
+      "Alkaline",
+      "Alkali",
+      "Actinoid"
+    ]
+  },
+  {
+    "element": "Y",
+    "question": {
+      "et": "Värvitelerite punased fosforid ja paljud LED-materjalid kasutasid selle elemendi ühendeid valguse täpseks värvimiseks.",
+      "en": "Red phosphors in colour televisions and many LED materials have used compounds of this element to tune light to precise colours.",
+      "lv": "Krāsu televizoru sarkanie luminofori un daudzi LED materiāli izmantojuši šī elementa savienojumus, lai precīzi noregulētu gaismas krāsu."
+    },
+    "answergroups": [
+      "Transition",
+      "Lanthanoid",
+      "Poor"
+    ]
+  },
+  {
+    "element": "Zr",
+    "question": {
+      "et": "Tuumareaktorite kütusevardad kaetakse sageli selle metalliga, sest see peab hästi vastu korrosioonile ja neelab vähe neutroneid.",
+      "en": "Nuclear reactor fuel rods are often clad with this metal because it resists corrosion and absorbs few neutrons.",
+      "lv": "Kodolreaktoru degvielas stieņus bieži apvalko ar šo metālu, jo tas ir izturīgs pret koroziju un absorbē maz neitronu."
+    },
+    "answergroups": [
+      "Transition",
+      "Poor",
+      "Alkaline"
+    ]
+  },
+  {
+    "element": "Nb",
+    "question": {
+      "et": "Koos titaaniga moodustab see element ülijuhtiva sulami, millest valmistatakse MRI-seadmete ja osakestekiirendite tugevaid magneteid.",
+      "en": "Together with titanium, this element forms a superconducting alloy used for the strong magnets of MRI machines and particle accelerators.",
+      "lv": "Kopā ar titānu šis elements veido supravadošu sakausējumu, no kura izgatavo spēcīgus magnētus MRI iekārtām un daļiņu paātrinātājiem."
+    },
+    "answergroups": [
+      "Transition",
+      "Poor",
+      "Lanthanoid"
+    ]
+  },
+  {
+    "element": "Mo",
+    "question": {
+      "et": "Selle elemendi disulfiid on kihilise ehitusega tahke määrdeaine, mis libiseb hästi ka seal, kus õli ei sobi.",
+      "en": "The disulfide of this element is a layered solid lubricant that slides well even where oils are unsuitable.",
+      "lv": "Šī elementa disulfīds ir slāņaina cieta smērviela, kas labi slīd pat tur, kur eļļas nav piemērotas."
+    },
+    "answergroups": [
+      "Transition",
+      "Metalloid",
+      "Poor"
+    ]
+  },
+  {
+    "element": "Tc",
+    "question": {
+      "et": "See on kõige kergem element, millel pole ühtegi stabiilset isotoopi, mistõttu tema nimi viitab kunstlikule või tehnilisele päritolule.",
+      "en": "This is the lightest element with no stable isotope, and its name points to its artificial or technical origin.",
+      "lv": "Tas ir vieglākais elements bez neviena stabila izotopa, un tā nosaukums norāda uz mākslīgu jeb tehnisku izcelsmi."
+    },
+    "answergroups": [
+      "Transition",
+      "Actinoid",
+      "Poor"
+    ]
+  },
+  {
+    "element": "Tc",
+    "question": {
+      "et": "Selle elemendi metastabiilne isomeer massiarvuga 99 on haiglates üks tähtsamaid radioaktiivseid märkaineid, millega pildistatakse elundite talitlust.",
+      "en": "The metastable 99m isomer of this element is one of the most important radioactive tracers in hospitals for imaging organ function.",
+      "lv": "Šī elementa metastabilais izomērs ar masas skaitli 99m ir viens no svarīgākajiem radioaktīvajiem marķieriem slimnīcās orgānu darbības attēlošanai."
+    },
+    "answergroups": [
+      "Transition",
+      "Actinoid",
+      "Lanthanoid"
+    ]
+  },
+  {
+    "element": "Rh",
+    "question": {
+      "et": "Autode katalüsaatorites aitab see väga kallis plaatinarühma metall muuta lämmastikoksiide vähem kahjulikeks gaasideks.",
+      "en": "In car catalytic converters this very expensive platinum-group metal helps turn nitrogen oxides into less harmful gases.",
+      "lv": "Automobiļu katalizatoros šis ļoti dārgais platīna grupas metāls palīdz pārvērst slāpekļa oksīdus mazāk kaitīgās gāzēs."
+    },
+    "answergroups": [
+      "Transition",
+      "Poor",
+      "Lanthanoid"
+    ]
+  },
+  {
+    "element": "Rh",
+    "question": {
+      "et": "Seda eriti peegeldavat ja korrosioonikindlat metalli kantakse õhukese kihina ehete ja peeglite pinnale.",
+      "en": "This highly reflective, corrosion-resistant metal is plated in a thin layer on jewellery and mirrors.",
+      "lv": "Šo ļoti atstarojošo un korozijizturīgo metālu plānā kārtā uzklāj rotaslietām un spoguļiem."
+    },
+    "answergroups": [
+      "Transition",
+      "Poor",
+      "Alkaline"
+    ]
+  },
+  {
+    "element": "Pd",
+    "question": {
+      "et": "See metall suudab oma kristallvõresse neelata üllatavalt palju vesinikku, justkui toimides vesiniku käsnana.",
+      "en": "This metal can absorb surprisingly large amounts of hydrogen into its crystal lattice, almost like a hydrogen sponge.",
+      "lv": "Šis metāls savā kristālrežģī spēj uzņemt pārsteidzoši daudz ūdeņraža, gandrīz kā ūdeņraža sūklis."
+    },
+    "answergroups": [
+      "Transition",
+      "Poor",
+      "Lanthanoid"
+    ]
+  },
+  {
+    "element": "Pd",
+    "question": {
+      "et": "See element sai nime asteroid Pallaselt, mis oli avastatud vaid veidi enne seda metalli.",
+      "en": "This element was named after the asteroid Pallas, discovered only shortly before the metal itself.",
+      "lv": "Šis elements nosaukts asteroīda Pallasa vārdā, kas tika atklāts tikai neilgi pirms paša metāla."
+    },
+    "answergroups": [
+      "Transition",
+      "Lanthanoid",
+      "Poor"
+    ]
+  },
+  {
+    "element": "Ag",
+    "question": {
+      "et": "Kõigist elementidest juhib see metall kõige paremini nii elektrit kui ka soojust, kuigi juhtmetes kasutatakse teda hinna tõttu harvem kui vaske.",
+      "en": "Of all elements, this metal conducts both electricity and heat best, although its price keeps it out of ordinary wiring.",
+      "lv": "No visiem elementiem šis metāls vislabāk vada gan elektrību, gan siltumu, lai gan cena to parastajos vados padara retāku nekā varu."
+    },
+    "answergroups": [
+      "Transition",
+      "Poor",
+      "Alkaline"
+    ]
+  },
+  {
+    "element": "Ag",
+    "question": {
+      "et": "Selle elemendi halogeniidid tumenevad valguse käes ning olid klassikalise fotofilmi ja fotopaberi keemiline alus.",
+      "en": "Halides of this element darken in light and were the chemical basis of classic photographic film and paper.",
+      "lv": "Šī elementa halogenīdi gaismā kļūst tumšāki un bija klasiskās fotofilmas un fotopapīra ķīmiskais pamats."
+    },
+    "answergroups": [
+      "Transition",
+      "Halogen",
+      "Poor"
+    ]
+  },
+  {
+    "element": "Ag",
+    "question": {
+      "et": "Õhus see metall niisama ei roosteta, kuid väävliühendid tekitavad tema pinnale musta tuhmumiskihi. See on alles viimasel paaril sajandil tööstussaaste tõttu ilmnenud probleem.",
+      "en": "This metal does not simply rust in air, but sulfur compounds form a black tarnish layer on its surface. This has only become a problem in recent history as a result of industrial pollution.",
+      "lv": "Šis metāls gaisā vienkārši nerūsē, taču sēra savienojumi uz tā virsmas veido melnu apsūbējuma kārtu. Tā ir kļuvusi par problēmu tikai nesenā vēsturē rūpnieciskā piesārņojuma rezultātā."
+    },
+    "answergroups": [
+      "Transition",
+      "Poor",
+      "Alkaline"
+    ]
+  },
+  {
+    "element": "In",
+    "question": {
+      "et": "Selle elemendi tinaoksiidiga segatud oksiid on läbipaistev elektrijuht, mida kasutatakse puuteekraanides, lameekraanides ja õhukestes päikesepatareides.",
+      "en": "The oxide of this element mixed with tin oxide is a transparent electrical conductor used in touchscreens, flat displays and thin solar cells.",
+      "lv": "Šī elementa oksīds, sajaukts ar alvas oksīdu, ir caurspīdīgs elektrības vadītājs, ko izmanto skārienekrānos, plakanajos displejos un plānās saules šūnās."
+    },
+    "answergroups": [
+      "Poor",
+      "Transition",
+      "Metalloid"
+    ]
+  },
+  {
+    "element": "Sn",
+    "question": {
+      "et": "Selle elemendi ja vase sulam pronks oli nii tähtis, et terve inimajaloo ajajärk on saanud selle järgi nime.",
+      "en": "The alloy of this element with copper, bronze, was so important that a whole age of human history is named after it.",
+      "lv": "Šī elementa sakausējums ar varu, bronza, bija tik svarīgs, ka vesels cilvēces vēstures laikmets nosaukts tā vārdā."
+    },
+    "answergroups": [
+      "Poor",
+      "Transition",
+      "Metalloid"
+    ]
+  },
+  {
+    "element": "Sn",
+    "question": {
+      "et": "Selle elemendi madala sulamistemperatuuriga sulameid kasutatakse jootmisel, et ühendada elektroonikakomponente ilma kogu seadet kuumutamata.",
+      "en": "Low-melting alloys of this element are used in soldering, joining electronic components without heating the whole device too much.",
+      "lv": "Šī elementa zemas kušanas temperatūras sakausējumus izmanto lodēšanā, savienojot elektronikas detaļas, nepārkarsējot visu ierīci."
+    },
+    "answergroups": [
+      "Poor",
+      "Transition",
+      "Alkali"
+    ]
+  },
+  {
+    "element": "Sb",
+    "question": {
+      "et": "Selle elemendi ühendeid leidub paljudes leegiaeglustites, kus need aitavad plastidel ja tekstiilidel raskemini süttida.",
+      "en": "Compounds of this element occur in many flame retardants, where they help plastics and textiles ignite less easily.",
+      "lv": "Šī elementa savienojumi sastopami daudzos liesmu slāpētājos, kur tie palīdz plastmasām un tekstilizstrādājumiem grūtāk aizdegties."
+    },
+    "answergroups": [
+      "Metalloid",
+      "Poor",
+      "Nonmetal"
+    ]
+  },
+  {
+    "element": "Te",
+    "question": {
+      "et": "Selle elemendi nimi tähendab Maad, moodustades keemias nimepaari naabriga, mille nimi viitab Kuule.",
+      "en": "The name of this element means Earth, forming a chemical name-pair with its neighbour whose name refers to the Moon.",
+      "lv": "Šī elementa nosaukums nozīmē Zemi, veidojot ķīmisku nosaukumu pāri ar kaimiņu, kura nosaukums norāda uz Mēnesi."
+    },
+    "answergroups": [
+      "Metalloid",
+      "Nonmetal",
+      "Poor"
+    ]
+  },
+  {
+    "element": "Te",
+    "question": {
+      "et": "Õhukestes päikesepatareides kasutatakse selle elemendi ja kaadmiumi ühendit, mis neelab päikesevalgust väga tõhusalt.",
+      "en": "Thin-film solar cells use a compound of this element with cadmium, which absorbs sunlight very efficiently.",
+      "lv": "Plānās kārtas saules elementi izmanto šī elementa savienojumu ar kadmiju, kas ļoti efektīvi absorbē saules gaismu."
+    },
+    "answergroups": [
+      "Metalloid",
+      "Poor",
+      "Transition"
+    ]
+  },
+  {
+    "element": "I",
+    "question": {
+      "et": "Selle halogeeni aurud on violetsed ning selle värvi järgi on ta ka nime saanud.",
+      "en": "The vapour of this halogen is violet, and the element is named after that colour.",
+      "lv": "Šī halogēna tvaiki ir violeti, un elements nosaukts šīs krāsas vārdā."
+    },
+    "answergroups": [
+      "Halogen",
+      "Nonmetal",
+      "Noble"
+    ]
+  },
+  {
+    "element": "I",
+    "question": {
+      "et": "Inimese kilpnääre vajab seda elementi hormoonide valmistamiseks; selle puudust ennetatakse sageli jodeeritud soolaga.",
+      "en": "The human thyroid gland needs this element to make hormones; deficiency is often prevented with iodised salt.",
+      "lv": "Cilvēka vairogdziedzerim šis elements vajadzīgs hormonu veidošanai; tā trūkumu bieži novērš ar jodētu sāli."
+    },
+    "answergroups": [
+      "Halogen",
+      "Nonmetal",
+      "Noble"
+    ]
+  },
+  {
+    "element": "I",
+    "question": {
+      "et": "Selle elemendi alkohollahust ehk tinktuuri kasutati kaua naha ja haavade desinfitseerimiseks.",
+      "en": "An alcoholic solution, or tincture, of this element was long used to disinfect skin and wounds.",
+      "lv": "Šī elementa spirta šķīdumu jeb tinktūru ilgi izmantoja ādas un brūču dezinfekcijai."
+    },
+    "answergroups": [
+      "Halogen",
+      "Nonmetal",
+      "Noble"
+    ]
+  },
+  {
+    "element": "I",
+    "question": {
+      "et": "Radioaktiivseid isotoope sellest elemendist kasutatakse kilpnäärme uuringutes ja ravis, sest keha koondab neid just sellesse elundisse.",
+      "en": "Radioactive isotopes of this element are used in thyroid imaging and therapy because the body concentrates them in that organ.",
+      "lv": "Šī elementa radioaktīvos izotopus izmanto vairogdziedzera izmeklēšanā un ārstēšanā, jo organisms tos koncentrē tieši šajā orgānā."
+    },
+    "answergroups": [
+      "Halogen",
+      "Noble",
+      "Actinoid"
+    ]
+  },
+  {
+    "element": "Xe",
+    "question": {
+      "et": "Seda rasket väärisgaasi kasutatakse välklampides, autode esituledes ning väga eredates impulsslampides.",
+      "en": "This heavy noble gas is used in flash lamps, car headlights and very bright pulsed lamps.",
+      "lv": "Šo smago cēlgāzi izmanto zibspuldzēs, automobiļu lukturos un ļoti spilgtās impulsu lampās."
+    },
+    "answergroups": [
+      "Noble",
+      "Nonmetal",
+      "Halogen"
+    ]
+  },
+  {
+    "element": "Xe",
+    "question": {
+      "et": "Kosmoselaevade ioonmootorites on seda elementi kasutatud töögaasina, sest selle rasked aatomid annavad välja paisates hea tõuke.",
+      "en": "Spacecraft ion engines have used this element as a propellant gas because the weight of its atoms translates to thrust when expelled.",
+      "lv": "Kosmosa kuģu jonu dzinēji ir izmantojuši šo elementu kā propelenta gāzi, jo tā atomu svars, izspiežot, rada vilci."
+    },
+    "answergroups": [
+      "Noble",
+      "Nonmetal",
+      "Halogen"
+    ]
+  },
+  {
+    "element": "Cs",
+    "question": {
+      "et": "Selle elemendi aatomite ergastamisel vabaneva kiirguse sagedust kasutatakse tänapäeva aatomkellades sekundi pikkuse definitsioonina.",
+      "en": "The frequency of radiation released by excited atoms of this element is used in modern atomic clocks as the definition of the second.",
+      "lv": "Šī elementa ierosināto atomu izstarotā starojuma frekvence mūsdienu atomu pulksteņos tiek izmantota kā sekundes definīcija."
+    },
+    "answergroups": [
+      "Alkali",
+      "Alkaline",
+      "Poor",
+      "Transition"
+    ]
+  },
+  {
+    "element": "Ba",
+    "question": {
+      "et": "Selle elemendi sulfaat on nii halvasti lahustuv, et seda võib patsiendile anda röntgenuuringu kontrastainena seedetrakti nähtavaks tegemiseks.",
+      "en": "The sulfate of this element is so insoluble that it can be given to a patient as an X-ray contrast agent to show the digestive tract.",
+      "lv": "Šī elementa sulfāts ir tik slikti šķīstošs, ka to var dot pacientam kā rentgena kontrastvielu gremošanas trakta attēlošanai."
+    },
+    "answergroups": [
+      "Alkaline",
+      "Poor",
+      "Transition"
+    ]
+  },
+  {
+    "element": "Ba",
+    "question": {
+      "et": "Selle elemendi soolad annavad ilutulestikus rohelise värvuse.",
+      "en": "Salts of this element give fireworks a green colour.",
+      "lv": "Šī elementa sāļi piešķir uguņošanai zaļu krāsu."
+    },
+    "answergroups": [
+      "Alkaline",
+      "Alkali",
+      "Poor"
+    ]
+  },
+  {
+    "element": "La",
+    "question": {
+      "et": "Selle elemendi oksiid aitab teha suure murdumisnäitajaga optilist klaasi, mida kasutatakse kaamerate ja teleskoopide läätsedes.",
+      "en": "The oxide of this element helps make high-refractive-index optical glass used in camera and telescope lenses.",
+      "lv": "Šī elementa oksīds palīdz izgatavot optisko stiklu ar lielu laušanas koeficientu, ko izmanto fotoaparātu un teleskopu lēcās."
+    },
+    "answergroups": [
+      "Lanthanoid",
+      "Actinoid",
+      "Transition"
+    ]
+  },
+  {
+    "element": "Ce",
+    "question": {
+      "et": "See on haruldastest muldmetallidest kõige levinum ning tema oksiid on tähtis klaasi ja peeglite poleerimispulber.",
+      "en": "This is the most abundant rare-earth element, and its oxide is an important polishing powder for glass and mirrors.",
+      "lv": "Tas ir visizplatītākais retzemju elements, un tā oksīds ir svarīgs pulēšanas pulveris stiklam un spoguļiem."
+    },
+    "answergroups": [
+      "Lanthanoid",
+      "Actinoid",
+      "Transition"
+    ]
+  },
+  {
+    "element": "Ce",
+    "question": {
+      "et": "Tulemasinate sädemekivides kasutatav mischmetal sisaldab palju just seda elementi, mis annab hõõrdumisel kuumi sädemeid.",
+      "en": "The mischmetal used in lighter flints contains much of this element, which gives hot sparks when scraped.",
+      "lv": "Šķiltavu krama sakausējums mischmetal satur daudz šī elementa, kas skrāpējot dod karstas dzirksteles."
+    },
+    "answergroups": [
+      "Lanthanoid",
+      "Actinoid",
+      "Transition"
+    ]
+  },
+  {
+    "element": "Ce",
+    "question": {
+      "et": "Selle elemendi nimi seostub kääbusplaneet Ceresega, mis avastati samal ajal, kui keemikud hakkasid seda uut metalli eraldama.",
+      "en": "The name of this element is linked to the dwarf planet Ceres, discovered around the time chemists were isolating the new metal.",
+      "lv": "Šī elementa nosaukums saistīts ar pundurplanētu Cereru, kas tika atklāta laikā, kad ķīmiķi sāka izdalīt šo jauno metālu."
+    },
+    "answergroups": [
+      "Lanthanoid",
+      "Actinoid",
+      "Transition"
+    ]
+  },
+  {
+    "element": "Pr",
+    "question": {
+      "et": "Koos neodüümiga kuulus see element kunagi segusse nimega didüüm. Alles hiljem selgus, et see 'element' oli tegelikult kahe elemendi segu.",
+      "en": "Together with neodymium, this element was once part of a material called didymium. Later it turned out that the 'element' was really a mixture of two elements.",
+      "lv": "Kopā ar neodīmu šis elements reiz bija vielā, ko sauca par didīmiju. Vēlāk izrādījās, ka šis 'elements' patiesībā ir divu elementu maisījums."
+    },
+    "answergroups": [
+      "Lanthanoid",
+      "Actinoid",
+      "Transition"
+    ]
+  },
+  {
+    "element": "Pr",
+    "question": {
+      "et": "Selle elemendi ühendid võivad anda klaasile ja emailidele kollakasrohelise tooni ning neid kasutatakse ka keevitajate kaitseprillide filtrites.",
+      "en": "Compounds of this element can give glass and enamels a yellow-green colour and are also used in filters for welders' goggles.",
+      "lv": "Šī elementa savienojumi stiklam un emaljām var piešķirt dzeltenzaļu toni, un tos izmanto arī metinātāju aizsargbriļļu filtros."
+    },
+    "answergroups": [
+      "Lanthanoid",
+      "Actinoid",
+      "Transition"
+    ]
+  },
+  {
+    "element": "Nd",
+    "question": {
+      "et": "Selle elemendi, raua ja boori sulamist valmistatakse ühed tugevaimad püsimagnetid, mida leidub kõrvaklappides, kõvaketastes ja tuuleturbiinides.",
+      "en": "An alloy of this element with iron and boron makes some of the strongest permanent magnets, found in headphones, hard drives and wind turbines.",
+      "lv": "Šī elementa sakausējums ar dzelzi un boru veido vienus no spēcīgākajiem pastāvīgajiem magnētiem, kas atrodami austiņās, cietajos diskos un vēja turbīnās."
+    },
+    "answergroups": [
+      "Lanthanoid",
+      "Actinoid",
+      "Transition"
+    ]
+  },
+  {
+    "element": "Pm",
+    "question": {
+      "et": "Selle elemendi nimi on võetud Prometheuselt, kes müüdis tõi inimestele tule – sobiv nimi kunstlikult toodetud radioaktiivsele elemendile.",
+      "en": "This element is named after Prometheus, who in myth brought fire to humankind, a fitting name for an artificially produced radioactive element.",
+      "lv": "Šis elements nosaukts Prometeja vārdā, kurš mītā atnesa cilvēkiem uguni – piemērots nosaukums mākslīgi ražotam radioaktīvam elementam."
+    },
+    "answergroups": [
+      "Lanthanoid",
+      "Actinoid",
+      "Transition"
+    ]
+  },
+  {
+    "element": "Sm",
+    "question": {
+      "et": "Selle elemendi ja koobalti sulamist magnetid taluvad kõrgemat temperatuuri kui paljud neodüümmagnetid.",
+      "en": "Magnets made from an alloy of this element and cobalt tolerate higher temperatures than many neodymium magnets.",
+      "lv": "Magnēti no šī elementa un kobalta sakausējuma iztur augstāku temperatūru nekā daudzi neodīma magnēti."
+    },
+    "answergroups": [
+      "Lanthanoid",
+      "Actinoid",
+      "Transition"
+    ]
+  },
+  {
+    "element": "Eu",
+    "question": {
+      "et": "Selle elemendi ühendid andsid vanematele värvitelevisioonidele ja luminofoorlampidele ereda punase fosfori.",
+      "en": "Compounds of this element supplied the bright red phosphor in older colour televisions and fluorescent lamps.",
+      "lv": "Šī elementa savienojumi vecākajos krāsu televizoros un luminiscences lampās nodrošināja spilgti sarkano luminoforu."
+    },
+    "answergroups": [
+      "Lanthanoid",
+      "Actinoid",
+      "Transition"
+    ]
+  },
+  {
+    "element": "Eu",
+    "question": {
+      "et": "Euro pangatähtedes ja muudes turvamärgistes kasutatakse selle elemendi luminofoorseid ühendeid, mis helendavad ultraviolettvalguses.",
+      "en": "Euro banknotes and other security markings use luminescent compounds of this element that glow under ultraviolet light.",
+      "lv": "Eiro banknotēs un citās drošības zīmēs izmanto šī elementa luminiscējošos savienojumus, kas spīd ultravioletajā gaismā."
+    },
+    "answergroups": [
+      "Lanthanoid",
+      "Actinoid",
+      "Transition"
+    ]
+  },
+  {
+    "element": "Gd",
+    "question": {
+      "et": "Selle elemendi ühendeid kasutatakse MRI-uuringutes kontrastainetena, sest tema ioonid mõjutavad tugevalt läheduses olevate vesinikutuuma magnetkäitumist.",
+      "en": "Compounds of this element are used as contrast agents in MRI scans because its ions strongly affect nearby hydrogen nuclei magnetically.",
+      "lv": "Šī elementa savienojumus izmanto kā kontrastvielas MRI izmeklējumos, jo tā joni spēcīgi magnētiski ietekmē tuvumā esošos ūdeņraža kodolus."
+    },
+    "answergroups": [
+      "Lanthanoid",
+      "Actinoid",
+      "Transition"
+    ]
+  },
+  {
+    "element": "Gd",
+    "question": {
+      "et": "Toatemperatuuri lähedal muutuvad selle metalli magnetilised omadused järsult, mistõttu on seda uuritud magnetilise jahutuse materjalina.",
+      "en": "Near room temperature the magnetic properties of this metal change sharply, so it has been studied for magnetic refrigeration.",
+      "lv": "Istabas temperatūras tuvumā šī metāla magnētiskās īpašības strauji mainās, tāpēc to pēta magnētiskajai dzesēšanai."
+    },
+    "answergroups": [
+      "Lanthanoid",
+      "Actinoid",
+      "Transition"
+    ]
+  },
+  {
+    "element": "Tb",
+    "question": {
+      "et": "Selle elemendi ühendid annavad paljudes ekraanides ja energiasäästulampides rohelise fosfori.",
+      "en": "Compounds of this element provide the green phosphor in many displays and energy-saving lamps.",
+      "lv": "Šī elementa savienojumi daudzos ekrānos un energoefektīvās lampās nodrošina zaļo luminoforu."
+    },
+    "answergroups": [
+      "Lanthanoid",
+      "Actinoid",
+      "Transition"
+    ]
+  },
+  {
+    "element": "Dy",
+    "question": {
+      "et": "Seda elementi lisatakse neodüümmagnetitele, et need säilitaksid oma magnetilised omadused ka kõrgemal temperatuuril.",
+      "en": "This element is added to neodymium magnets so that they keep their magnetic properties at higher temperatures.",
+      "lv": "Šo elementu pievieno neodīma magnētiem, lai tie saglabātu magnētiskās īpašības arī augstākā temperatūrā."
+    },
+    "answergroups": [
+      "Lanthanoid",
+      "Actinoid",
+      "Transition"
+    ]
+  },
+  {
+    "element": "Er",
+    "question": {
+      "et": "Selle elemendiga lisandatud optilised kiud võimendavad signaali lainepikkustel, mida kasutatakse ülemaailmsetes kiudoptilistes sidevõrkudes.",
+      "en": "Optical fibres doped with this element amplify signals at wavelengths used in global fibre-optic communication networks.",
+      "lv": "Optiskās šķiedras, dopētas ar šo elementu, pastiprina signālus viļņu garumos, ko izmanto globālajos optisko šķiedru sakaru tīklos."
+    },
+    "answergroups": [
+      "Lanthanoid",
+      "Actinoid",
+      "Transition"
+    ]
+  },
+  {
+    "element": "Er",
+    "question": {
+      "et": "Selle elemendi oksiid annab klaasile ja portselanile roosaka tooni.",
+      "en": "The oxide of this element gives glass and porcelain a pinkish colour.",
+      "lv": "Šī elementa oksīds stiklam un porcelānam piešķir rozīgu krāsu."
+    },
+    "answergroups": [
+      "Lanthanoid",
+      "Actinoid",
+      "Transition"
+    ]
+  },
+  {
+    "element": "Lu",
+    "question": {
+      "et": "Selle elemendi nimi tuleb Pariisi vanast ladinakeelsest nimest Lutetia.",
+      "en": "The name of this element comes from Lutetia, the old Latin name for Paris.",
+      "lv": "Šī elementa nosaukums cēlies no Lutetia - Parīzes senā latīniskā nosaukuma."
+    },
+    "answergroups": [
+      "Lanthanoid",
+      "Actinoid",
+      "Transition"
+    ]
+  },
+  {
+    "element": "Hf",
+    "question": {
+      "et": "Mikrokiipides kasutatakse selle elemendi oksiidi väga õhukese isolaatorina, mis aitas ränioksiidi piirangutest edasi liikuda.",
+      "en": "In microchips, the oxide of this element is used as an extremely thin insulator, helping engineers move beyond the limits of silicon dioxide.",
+      "lv": "Mikroshēmās šī elementa oksīdu izmanto kā ārkārtīgi plānu izolatoru, palīdzot inženieriem pārvarēt silīcija dioksīda ierobežojumus."
+    },
+    "answergroups": [
+      "Transition",
+      "Poor",
+      "Metalloid"
+    ]
+  },
+  {
+    "element": "Ta",
+    "question": {
+      "et": "Selle elemendi elektrolüütkondensaatorid võimaldavad väikese mahuga seadmetes, näiteks telefonides, salvestada suhteliselt palju laengut.",
+      "en": "Electrolytic capacitors made with this element store relatively large charge in small devices such as phones.",
+      "lv": "Elektrolītiskie kondensatori ar šo elementu nelielās ierīcēs, piemēram, telefonos, spēj uzkrāt samērā lielu lādiņu."
+    },
+    "answergroups": [
+      "Transition",
+      "Poor",
+      "Alkaline"
+    ]
+  },
+  {
+    "element": "W",
+    "question": {
+      "et": "See on kõrgeima sulamistemperatuuriga metall, mistõttu sobib see hõõglampide hõõgniitideks.",
+      "en": "This element has the highest melting point of all metals, which made it suitable for filaments in incandescent light bulbs.",
+      "lv": "Šim metālam ir augstākā kušanas temperatūra no visiem metāliem, tāpēc tas bija piemērots kvēlspuldžu kvēldiegiem."
+    },
+    "answergroups": [
+      "Transition",
+      "Poor",
+      "Lanthanoid"
+    ]
+  },
+  {
+    "element": "W",
+    "question": {
+      "et": "Selle elemendi karbiid on nii kõva, et sellest valmistatakse puure, freesiterasid ja muid kulumiskindlaid lõikeriistu.",
+      "en": "The carbide of this element is so hard that it is made into drill bits, milling cutters and other wear-resistant cutting tools.",
+      "lv": "Šī elementa karbīds ir tik ciets, ka no tā izgatavo urbjus, frēzes un citus nodilumizturīgus griezējinstrumentus."
+    },
+    "answergroups": [
+      "Transition",
+      "Metalloid",
+      "Poor"
+    ]
+  },
+  {
+    "element": "W",
+    "question": {
+      "et": "Selle metalli tihedus on kulla omale nii lähedane, et seda on kasutatud kullakangide võltsimisel südamikmaterjalina.",
+      "en": "The density of this metal is so close to that of gold that it has been used as a core material in counterfeit gold bars.",
+      "lv": "Šī metāla blīvums ir tik tuvs zelta blīvumam, ka to izmantojuši kā serdes materiālu viltotos zelta stieņos."
+    },
+    "answergroups": [
+      "Transition",
+      "Poor",
+      "Alkaline"
+    ]
+  },
+  {
+    "element": "Re",
+    "question": {
+      "et": "Väikesed kogused seda elementi teevad nikkelsulamid tugevamaks, aidates reaktiivmootorite turbiinilabadel taluda äärmuslikku kuumust.",
+      "en": "Small amounts of this element strengthen nickel alloys, helping jet-engine turbine blades withstand extreme heat.",
+      "lv": "Nelieli šī elementa daudzumi stiprina niķeļa sakausējumus, palīdzot reaktīvo dzinēju turbīnu lāpstiņām izturēt ārkārtīgu karstumu."
+    },
+    "answergroups": [
+      "Transition",
+      "Poor",
+      "Lanthanoid"
+    ]
+  },
+  {
+    "element": "Os",
+    "question": {
+      "et": "See sinakasvalge metall on tavatingimustel kõige suurema tihedusega teadaolev aine.",
+      "en": "This bluish-white metal is the densest known material at room temperature and pressure.",
+      "lv": "Šis zilgani baltais metāls ir blīvākais zināmais materiāls istabas temperatūrā un spiedienā."
+    },
+    "answergroups": [
+      "Transition",
+      "Poor",
+      "Lanthanoid"
+    ]
+  },
+  {
+    "element": "Os",
+    "question": {
+      "et": "Selle elemendi tetroksiid on lenduv ja väga mürgine aine, mida kasutatakse bioloogiliste proovide rasvade fikseerimiseks ja sõrmejälgede nähtavaks tegemiseks.",
+      "en": "The tetroxide of this element is a volatile and very toxic substance used to fix fats in biological samples and to reveal fingerprints.",
+      "lv": "Šī elementa tetroksīds ir gaistoša un ļoti indīga viela, ko izmanto tauku fiksēšanai bioloģiskos paraugos un pirkstu nospiedumu atklāšanai."
+    },
+    "answergroups": [
+      "Transition",
+      "Poor",
+      "Metalloid"
+    ]
+  },
+  {
+    "element": "Ir",
+    "question": {
+      "et": "Üle maailma kivimites leiduv õhuke selle elemendi rikas kiht on üks tugevamaid tõendeid asteroidikokkupõrkest, mis lõpetas dinosauruste ajastu.",
+      "en": "A thin layer rich in this element in rocks around the world is one of the strongest pieces of evidence for the asteroid impact that ended the age of dinosaurs.",
+      "lv": "Plāns ar šo elementu bagāts slānis iežos visā pasaulē ir viens no spēcīgākajiem pierādījumiem asteroīda triecienam, kas izbeidza dinozauru laikmetu."
+    },
+    "answergroups": [
+      "Transition",
+      "Actinoid",
+      "Lanthanoid"
+    ]
+  },
+  {
+    "element": "Pt",
+    "question": {
+      "et": "See väärismetall on tuntud ehete ja autode katalüsaatorite materjalina ning on keemiliselt palju vastupidavam kui enamik tavalisi metalle.",
+      "en": "This precious metal is known for jewellery and car catalytic converters, and it is chemically far more resistant than most common metals.",
+      "lv": "Šis dārgmetāls ir pazīstams rotaslietās un automobiļu katalizatoros, un ķīmiski tas ir daudz izturīgāks nekā vairums parasto metālu."
+    },
+    "answergroups": [
+      "Transition",
+      "Poor",
+      "Lanthanoid"
+    ]
+  },
+  {
+    "element": "Pt",
+    "question": {
+      "et": "Aastaid hoiti kilogrammi rahvusvahelist prototüüpi selle elemendi ja iriidiumi sulamist valmistatud silindrina.",
+      "en": "For many years the international prototype kilogram was kept as a cylinder made from an alloy of this element and iridium.",
+      "lv": "Daudzus gadus starptautiskais kilograma prototips tika glabāts kā cilindrs no šī elementa un irīdija sakausējuma."
+    },
+    "answergroups": [
+      "Transition",
+      "Poor",
+      "Lanthanoid"
+    ]
+  },
+  {
+    "element": "Au",
+    "question": {
+      "et": "See element esineb looduses sageli eheda metallina ja on aastatuhandeid olnud kasutusel ehete, müntide ning varanduse sümbolina.",
+      "en": "This element often occurs in nature as pure metal and has for millennia been used for jewellery, coins and a symbol of wealth.",
+      "lv": "Šis elements dabā bieži sastopams kā tīrs metāls un gadu tūkstošiem ilgi tiek izmantots rotaslietās, monētās un kā bagātības simbols."
+    },
+    "answergroups": [
+      "Transition",
+      "Poor",
+      "Alkaline"
+    ]
+  },
+  {
+    "element": "Au",
+    "question": {
+      "et": "See metall on nii vormitav, et ühest grammist saab taguda ruutmeetrite jagu imeõhukest lehte.",
+      "en": "This metal is so malleable that a single gram can be beaten into square metres of extremely thin leaf.",
+      "lv": "Šis metāls ir tik kaļams, ka no viena grama var izkalt vairākus kvadrātmetrus ārkārtīgi plānas lapiņas."
+    },
+    "answergroups": [
+      "Transition",
+      "Poor",
+      "Alkaline"
+    ]
+  },
+  {
+    "element": "Hg",
+    "question": {
+      "et": "See on ainus metall, mis on tavalisel toatemperatuuril vedel.",
+      "en": "This is the only metal that is liquid at ordinary room temperature.",
+      "lv": "Tas ir vienīgais metāls, kas parastā istabas temperatūrā ir šķidrs."
+    },
+    "answergroups": [
+      "Transition",
+      "Poor",
+      "Alkali"
+    ]
+  },
+  {
+    "element": "Hg",
+    "question": {
+      "et": "Varem leidus seda elementi klaastermomeetrites ja baromeetrites, kuid mürgisuse tõttu on selle kasutust paljudes kohtades vähendatud.",
+      "en": "This element was once common in glass thermometers and barometers, but its use has been reduced in many places because of toxicity.",
+      "lv": "Šis elements agrāk bija izplatīts stikla termometros un barometros, taču toksiskuma dēļ tā lietošanu daudzviet samazināja."
+    },
+    "answergroups": [
+      "Transition",
+      "Poor",
+      "Alkali"
+    ]
+  },
+  {
+    "element": "Tl",
+    "question": {
+      "et": "See raske metall on väga mürgine ning tema ühendeid kasutati kunagi rotimürgina, kuni ohtlikkus liiga ilmseks sai.",
+      "en": "This heavy metal is highly toxic, and its compounds were once used as rat poison until the danger became too obvious.",
+      "lv": "Šis smagais metāls ir ļoti indīgs, un tā savienojumus reiz izmantoja kā žurku indi, līdz bīstamība kļuva pārāk acīmredzama."
+    },
+    "answergroups": [
+      "Poor",
+      "Transition",
+      "Metalloid"
+    ]
+  },
+  {
+    "element": "Tl",
+    "question": {
+      "et": "Selle elemendiga aktiveeritud naatriumjodiidi kristallid helendavad gammakiirguse mõjul ning on olnud klassikalised kiirgusdetektorid.",
+      "en": "Sodium iodide crystals activated with this element glow under gamma rays and have been classic radiation detectors.",
+      "lv": "Nātrija jodīda kristāli, aktivēti ar šo elementu, gamma starojumā spīd un ir klasiski starojuma detektori."
+    },
+    "answergroups": [
+      "Poor",
+      "Transition",
+      "Halogen"
+    ]
+  },
+  {
+    "element": "Pb",
+    "question": {
+      "et": "Selle metalli pehmus ja madal sulamistemperatuur tegid selle kunagi populaarseks torudes ja värvides, kuid mürgisus muutis need kasutused ohtlikuks.",
+      "en": "The softness and low melting point of this metal once made it popular in pipes and paints, but its toxicity made those uses dangerous.",
+      "lv": "Šī metāla mīkstums un zemā kušanas temperatūra to reiz padarīja populāru caurulēs un krāsās, bet toksiskums šos lietojumus padarīja bīstamus."
+    },
+    "answergroups": [
+      "Poor",
+      "Transition",
+      "Alkaline"
+    ]
+  },
+  {
+    "element": "Pb",
+    "question": {
+      "et": "Enamik autode tavalisi starteriakusid põhineb selle elemendi ja tema dioksiidi reaktsioonidel väävelhappes.",
+      "en": "Most ordinary car starter batteries are based on reactions of this element and its dioxide in sulfuric acid.",
+      "lv": "Lielākā daļa parasto automobiļu startera akumulatoru joprojām balstās uz šī elementa un tā dioksīda reakcijām sērskābē."
+    },
+    "answergroups": [
+      "Poor",
+      "Transition",
+      "Alkaline"
+    ]
+  },
+  {
+    "element": "Pb",
+    "question": {
+      "et": "Selle elemendi sümbol tuleb ladinakeelsest sõnast plumbum, millest pärineb ka ingliskeelne sõna torutööde kohta.",
+      "en": "The symbol of this element comes from the Latin word plumbum, which also gives English its word for plumbing.",
+      "lv": "Šī elementa simbols cēlies no latīņu vārda plumbum, no kura angļu valodā cēlies arī vārds, kas apzīmē santehniku."
+    },
+    "answergroups": [
+      "Poor",
+      "Transition",
+      "Alkaline"
+    ]
+  },
+  {
+    "element": "Bi",
+    "question": {
+      "et": "See raske metall on paljude teiste raskmetallidega võrreldes suhteliselt vähe mürgine ning asendab mõnes kasutuses pliid.",
+      "en": "Compared with many other heavy metals, this one is relatively low in toxicity and replaces lead in some applications.",
+      "lv": "Salīdzinot ar daudziem citiem smagajiem metāliem, šis ir salīdzinoši maz toksisks un dažos pielietojumos aizstāj svinu."
+    },
+    "answergroups": [
+      "Poor",
+      "Transition",
+      "Metalloid"
+    ]
+  },
+  {
+    "element": "Po",
+    "question": {
+      "et": "Marie ja Pierre Curie avastasid selle väga radioaktiivse elemendi ning nimetasid selle Marie Curie kodumaa järgi.",
+      "en": "Marie and Pierre Curie discovered this highly radioactive element and named it after Marie Curie's homeland.",
+      "lv": "Marija un Pjērs Kirī atklāja šo ļoti radioaktīvo elementu un nosauca to Marijas Kirī dzimtenes vārdā."
+    },
+    "answergroups": [
+      "Poor",
+      "Actinoid",
+      "Transition"
+    ]
+  },
+  {
+    "element": "Rn",
+    "question": {
+      "et": "See radioaktiivne väärisgaas tekib uraani lagunemisahelas ja võib koguneda majade keldritesse, suurendades kopsuvähi riski.",
+      "en": "This radioactive noble gas forms in the uranium decay chain and can collect in house basements, increasing lung-cancer risk.",
+      "lv": "Šī radioaktīvā cēlgāze veidojas urāna sabrukšanas ķēdē un var uzkrāties māju pagrabos, palielinot plaušu vēža risku."
+    },
+    "answergroups": [
+      "Noble",
+      "Nonmetal",
+      "Halogen"
+    ]
+  },
+  {
+    "element": "Ra",
+    "question": {
+      "et": "Marie ja Pierre Curie eraldasid selle tugevalt radioaktiivse leelismuldmetalli pigimaagist ning selle järgi said nime mitmed kiirgusega seotud mõisted.",
+      "en": "Marie and Pierre Curie isolated this strongly radioactive alkaline-earth metal from pitchblende, and several radiation-related terms were named from it.",
+      "lv": "Marija un Pjērs Kirī izolēja šo spēcīgi radioaktīvo sārmzemju metālu no urāna rūdas, un no tā nosaukuma radās vairāki ar starojumu saistīti termini."
+    },
+    "answergroups": [
+      "Alkaline",
+      "Actinoid",
+      "Alkali"
+    ]
+  },
+  {
+    "element": "Ra",
+    "question": {
+      "et": "Selle elemendi soolad helendavad pimedas ning neid kasutati kunagi kellade numbrilaudadel, põhjustades kurikuulsaid mürgistusi tehase töötajatel.",
+      "en": "Salts of this element glow in the dark and were once used on watch dials, causing notorious poisonings among factory workers.",
+      "lv": "Šī elementa sāļi tumsā spīd un kādreiz tika izmantoti pulksteņu ciparnīcās, izraisot bēdīgi slavenas saindēšanās rūpnīcu strādniecēm."
+    },
+    "answergroups": [
+      "Alkaline",
+      "Actinoid",
+      "Lanthanoid"
+    ]
+  },
+  {
+    "element": "Th",
+    "question": {
+      "et": "Selle elemendi isotoop 232 võib neutronite mõjul muutuda uraan-233-ks, mistõttu on seda uuritud alternatiivse tuumakütuse lähteainena.",
+      "en": "The isotope 232 of this element can turn into uranium-233 after absorbing neutrons, so it has been studied as a starting material for alternative nuclear fuel.",
+      "lv": "Šī elementa izotops 232 pēc neitronu uztveršanas var pārvērsties par urānu-233, tāpēc to pēta kā alternatīvas kodoldegvielas izejvielu."
+    },
+    "answergroups": [
+      "Actinoid",
+      "Lanthanoid",
+      "Transition"
+    ]
+  },
+  {
+    "element": "Th",
+    "question": {
+      "et": "Kunagistes gaasilampide hõõgsukkades kasutati selle elemendi dioksiidi, mis muutus leegis väga eredalt hõõguvaks.",
+      "en": "Old gas-lamp mantles used the dioxide of this element, which glowed very brightly in a flame.",
+      "lv": "Vecajās gāzes lampu kvēlzeķēs izmantoja šī elementa dioksīdu, kas liesmā ļoti spilgti kvēloja."
+    },
+    "answergroups": [
+      "Actinoid",
+      "Lanthanoid",
+      "Transition"
+    ]
+  },
+  {
+    "element": "U",
+    "question": {
+      "et": "See on looduses märkimisväärses koguses leiduvatest elementidest suurima aatomnumbriga ning tema tuumade lõhustumine annab kütust tuumareaktoritele.",
+      "en": "This has the highest atomic number of the elements found in significant natural amounts, and fission of its nuclei fuels nuclear reactors.",
+      "lv": "Tam ir lielākais atomskaitlis no elementiem, kas dabā sastopami ievērojamā daudzumā, un tā kodolu šķelšanās darbina kodolreaktorus."
+    },
+    "answergroups": [
+      "Actinoid",
+      "Lanthanoid",
+      "Transition"
+    ]
+  },
+  {
+    "element": "U",
+    "question": {
+      "et": "See element sai nime planeedi järgi, mis oli avastatud vaid mõni aasta enne seda, kui element pigimaagist leiti.",
+      "en": "This element was named after a planet discovered only a few years before the element was found in pitchblende.",
+      "lv": "Šis elements nosaukts planētas vārdā, kas tika atklāta tikai dažus gadus pirms elementa atrašanas urāna rūdā."
+    },
+    "answergroups": [
+      "Actinoid",
+      "Lanthanoid",
+      "Noble"
+    ]
+  },
+  {
+    "element": "U",
+    "question": {
+      "et": "Selle elemendi vaesestatud vorm on väga tihe ja seda on kasutatud soomust läbistavas laskemoonas ning ballastina.",
+      "en": "The depleted form of this element is very dense and has been used in armour-piercing ammunition and as ballast.",
+      "lv": "Šī elementa noplicinātā forma ir ļoti blīva un izmantota bruņas caursitošā munīcijā un kā balasts."
+    },
+    "answergroups": [
+      "Actinoid",
+      "Lanthanoid",
+      "Transition"
+    ]
+  },
+  {
+    "element": "Pu",
+    "question": {
+      "et": "Selle elemendi isotoop 239 on üks tähtsamaid tuumarelvade ja mõnede reaktorikütuste lõhustuvaid aineid.",
+      "en": "The isotope 239 of this element is one of the most important fissile materials for nuclear weapons and some reactor fuels.",
+      "lv": "Šī elementa izotops 239 ir viens no svarīgākajiem šķelšanās materiāliem kodolieročiem un dažām reaktoru degvielām."
+    },
+    "answergroups": [
+      "Actinoid",
+      "Lanthanoid",
+      "Transition"
+    ]
+  },
+  {
+    "element": "Pu",
+    "question": {
+      "et": "Puhas metallist tükk sellest elemendist võib radioaktiivse lagunemise tõttu olla katsudes soe, kuigi sellega katsumine oleks väga halb mõte. Seda kasutatakse soojus- ja energiaallikana kosmosetehnikas kui päikesepaneelid pole variant.",
+      "en": "A pure metal piece of this element can feel warm from radioactive decay, although touching it would be a very bad idea. It is used as a source of heat and power in space technology in situations where solar panels are not an option.",
+      "lv": "Tīrs šī elementa metāla gabals radioaktīvās sabrukšanas dēļ var būt silts, lai gan tam pieskarties būtu ļoti slikta doma. To izmanto kā siltuma un enerģijas avotu kosmosa tehnoloģijās situācijās, kad saules paneļi nav iespējams."
+    },
+    "answergroups": [
+      "Actinoid",
+      "Lanthanoid",
+      "Transition"
+    ]
+  },
+  {
+    "element": "Am",
+    "question": {
+      "et": "Paljudes suitsuandurites on väike kogus selle elemendi isotoopi 241, mille alfaosakesed aitavad õhku ioniseerida.",
+      "en": "Many smoke detectors contain a small amount of isotope 241 of this element, whose alpha particles help ionise the air.",
+      "lv": "Daudzos dūmu detektoros ir neliels daudzums šī elementa izotopa 241, kura alfa daļiņas palīdz jonizēt gaisu."
+    },
+    "answergroups": [
+      "Actinoid",
+      "Lanthanoid",
+      "Transition"
+    ]
+  },
+  {
+    "element": "Cm",
+    "question": {
+      "et": "Kosmoseaparaatide röntgenspektromeetrites on selle elemendi isotoopi 244 kasutatud alfaosakeste allikana.",
+      "en": "In X-ray spectrometers on spacecraft and planetary landers, isotope 244 of this element has been used as an alpha-particle source.",
+      "lv": "Kosmisko aparātu un planētu nolaižamo aparātu rentgenspektrometros šī elementa izotopu 244 izmantoja kā alfa daļiņu avotu."
+    },
+    "answergroups": [
+      "Actinoid",
+      "Lanthanoid",
+      "Transition"
+    ]
+  },
+  {
+    "element": "Cf",
+    "question": {
+      "et": "Selle elemendi isotoop 252 on väga tugev neutroniallikas, mida kasutatakse näiteks reaktorite käivitamisel ja materjalide analüüsis.",
+      "en": "The isotope 252 of this element is a very strong neutron source, used for example in starting reactors and analysing materials.",
+      "lv": "Šī elementa izotops 252 ir ļoti spēcīgs neitronu avots, ko izmanto, piemēram, reaktoru iedarbināšanā un materiālu analīzē."
+    },
+    "answergroups": [
+      "Actinoid",
+      "Lanthanoid",
+      "Transition"
+    ]
+  },
+  {
+    "element": "Fm",
+    "question": {
+      "et": "See on kõige suurem aatomnumbriga element, mida on võimalik toota makroskoopilises (piltlikult öeldes palja silmaga nähtavas) koguses.",
+      "en": "This is the element with the highest atomic number that can be made in macroscopic quantities (essentially in big enough amount to be seen by eye).",
+      "lv": "Šis ir elements ar vislielāko atomskaitli, ko var ražot makroskopiskos daudzumos (būtībā pietiekami lielā daudzumā, lai to varētu redzēt ar aci)."
+    },
+    "answergroups": [
+      "Actinoid",
+      "Lanthanoid",
+      "Transition"
+    ]
   }
 ]
