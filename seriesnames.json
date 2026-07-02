@@ -64,5 +64,29 @@
         "est": "Teadmata",
         "eng": "Unknown",
         "lat": "Nezināms"
+    },
+    {
+        "series": "Fine",
+        "est": "Ilmselt ei juhtu midagi kui lakud",
+        "eng": "Sure, it's probably fine",
+        "lat": ""
+    },
+    {
+        "series": "Maybe",
+        "est": "Ei ole ehk parim mõte",
+        "eng": "May not be a good idea",
+        "lat": ""
+    },
+    {
+        "series": "Shouldnt",
+        "est": "Tõesti ei peaks",
+        "eng": "You really shouldn't",
+        "lat": ""
+    },
+    {
+        "series": "Reconsider",
+        "est": "Palun mõtle ümber",
+        "eng": "Please reconsider",
+        "lat": ""
     }
 ]
